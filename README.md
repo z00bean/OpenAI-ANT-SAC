@@ -14,3 +14,4 @@ The training data is dumped in files inside a directory named "Data".
 
 If you plan to visualize on a non GPU machine, make sure that you train with CPU on the server VM. Or you need to make changes to the ndarray after loading the data. Also, you might have to use torch.load() instead of joblib.load().
 Also make sure that torch and numpy versions match.
+multiworld package must be installed for rlkit to work.
