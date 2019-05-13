@@ -2,8 +2,8 @@
 UML COMP.7030- Directed research
 
 SAC code forked from: https://github.com/pranz24/pytorch-soft-actor-critic
-To run:
-  --$python3 main.py --env-name Ant-v2 --cuda
+To run: 
+```$python3 main.py --env-name Ant-v2 --cuda```
   
 The result would be dumped in a tensorboard log file inside a folder named "runs".
 
