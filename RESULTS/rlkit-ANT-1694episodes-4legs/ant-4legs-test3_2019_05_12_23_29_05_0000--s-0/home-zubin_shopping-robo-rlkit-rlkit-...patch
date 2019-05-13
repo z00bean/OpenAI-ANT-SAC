@@ -1,0 +1,35 @@
+diff --git a/examples/sac.py b/examples/sac.py
+index 9dda302..2e24057 100644
+--- a/examples/sac.py
++++ b/examples/sac.py
+@@ -1,4 +1,9 @@
+-from gym.envs.mujoco import HalfCheetahEnv
++import sys
++sys.path.append('/home/zubin_shopping/robo/rlkit')
++sys.path.append('/home/zubin_shopping/robo/multiworld')
++sys.path.append('/home/zubin_shopping/robo/gtimer')
++
++from gym.envs.mujoco import AntEnv
+ 
+ import rlkit.torch.pytorch_util as ptu
+ from rlkit.data_management.env_replay_buffer import EnvReplayBuffer
+@@ -12,8 +17,8 @@ from rlkit.torch.torch_rl_algorithm import TorchBatchRLAlgorithm
+ 
+ 
+ def experiment(variant):
+-    expl_env = NormalizedBoxEnv(HalfCheetahEnv())
+-    eval_env = NormalizedBoxEnv(HalfCheetahEnv())
++    expl_env = NormalizedBoxEnv(AntEnv())
++    eval_env = NormalizedBoxEnv(AntEnv())
+     obs_dim = expl_env.observation_space.low.size
+     action_dim = eval_env.action_space.low.size
+ 
+@@ -106,6 +111,6 @@ if __name__ == "__main__":
+             use_automatic_entropy_tuning=True,
+         ),
+     )
+-    setup_logger('name-of-experiment', variant=variant)
+-    # ptu.set_gpu_mode(True)  # optionally set the GPU (default=False)
++    setup_logger('ant-4legs-test3', variant=variant)
++    #ptu.set_gpu_mode(True)  # optionally set the GPU (default=False)
+     experiment(variant)

@@ -1,0 +1,1718 @@
+zubin_shopping@tf-1-us-west1-b-vm:~/robo/sac$ python3 main.py --env-name Ant-v2 --cuda
+Episode: 1, total numsteps: 44, episode steps: 44, reward: -19.95
+Episode: 2, total numsteps: 132, episode steps: 88, reward: -21.59
+Episode: 3, total numsteps: 153, episode steps: 21, reward: 1.67
+Episode: 4, total numsteps: 351, episode steps: 198, reward: -71.6
+Episode: 5, total numsteps: 414, episode steps: 63, reward: -40.83
+Episode: 6, total numsteps: 488, episode steps: 74, reward: -48.05
+Episode: 7, total numsteps: 653, episode steps: 165, reward: -26.81
+Episode: 8, total numsteps: 765, episode steps: 112, reward: 20.67
+Episode: 9, total numsteps: 1765, episode steps: 1000, reward: -290.0
+Episode: 10, total numsteps: 1825, episode steps: 60, reward: -36.66
+----------------------------------------
+Test Episode: 10, reward: 468.4
+----------------------------------------
+Episode: 11, total numsteps: 1921, episode steps: 96, reward: 11.58
+Episode: 12, total numsteps: 2921, episode steps: 1000, reward: -373.33
+Episode: 13, total numsteps: 2981, episode steps: 60, reward: -4.93
+Episode: 14, total numsteps: 3158, episode steps: 177, reward: -61.37
+Episode: 15, total numsteps: 3328, episode steps: 170, reward: -55.18
+Episode: 16, total numsteps: 3391, episode steps: 63, reward: 13.19
+Episode: 17, total numsteps: 3428, episode steps: 37, reward: -4.34
+Episode: 18, total numsteps: 3463, episode steps: 35, reward: -16.13
+Episode: 19, total numsteps: 3583, episode steps: 120, reward: -3.25
+Episode: 20, total numsteps: 3689, episode steps: 106, reward: 24.5
+----------------------------------------
+Test Episode: 20, reward: -78.2
+----------------------------------------
+Episode: 21, total numsteps: 3772, episode steps: 83, reward: -24.37
+Episode: 22, total numsteps: 4004, episode steps: 232, reward: -53.63
+Episode: 23, total numsteps: 4124, episode steps: 120, reward: -71.79
+Episode: 24, total numsteps: 4142, episode steps: 18, reward: -7.72
+Episode: 25, total numsteps: 4165, episode steps: 23, reward: 7.65
+Episode: 26, total numsteps: 4217, episode steps: 52, reward: -6.01
+Episode: 27, total numsteps: 4338, episode steps: 121, reward: -8.12
+Episode: 28, total numsteps: 4371, episode steps: 33, reward: -7.83
+Episode: 29, total numsteps: 4420, episode steps: 49, reward: -5.6
+Episode: 30, total numsteps: 4442, episode steps: 22, reward: -11.49
+----------------------------------------
+Test Episode: 30, reward: -512.35
+----------------------------------------
+Episode: 31, total numsteps: 4473, episode steps: 31, reward: -41.38
+Episode: 32, total numsteps: 4512, episode steps: 39, reward: -10.61
+Episode: 33, total numsteps: 4557, episode steps: 45, reward: -10.72
+Episode: 34, total numsteps: 4625, episode steps: 68, reward: -41.24
+Episode: 35, total numsteps: 4655, episode steps: 30, reward: -10.15
+Episode: 36, total numsteps: 4743, episode steps: 88, reward: -38.8
+Episode: 37, total numsteps: 4796, episode steps: 53, reward: -38.79
+Episode: 38, total numsteps: 4853, episode steps: 57, reward: -24.6
+Episode: 39, total numsteps: 4934, episode steps: 81, reward: -44.68
+Episode: 40, total numsteps: 5044, episode steps: 110, reward: -28.78
+----------------------------------------
+Test Episode: 40, reward: -488.56
+----------------------------------------
+Episode: 41, total numsteps: 5063, episode steps: 19, reward: 6.02
+Episode: 42, total numsteps: 5317, episode steps: 254, reward: -127.99
+Episode: 43, total numsteps: 5402, episode steps: 85, reward: -5.72
+Episode: 44, total numsteps: 5427, episode steps: 25, reward: 10.99
+Episode: 45, total numsteps: 5480, episode steps: 53, reward: -0.92
+Episode: 46, total numsteps: 5562, episode steps: 82, reward: 3.09
+Episode: 47, total numsteps: 5633, episode steps: 71, reward: -13.69
+Episode: 48, total numsteps: 5664, episode steps: 31, reward: 14.24
+Episode: 49, total numsteps: 5775, episode steps: 111, reward: -49.75
+Episode: 50, total numsteps: 5798, episode steps: 23, reward: -13.97
+----------------------------------------
+Test Episode: 50, reward: -963.67
+----------------------------------------
+Episode: 51, total numsteps: 5817, episode steps: 19, reward: -14.4
+Episode: 52, total numsteps: 5893, episode steps: 76, reward: -29.65
+Episode: 53, total numsteps: 5916, episode steps: 23, reward: -0.49
+Episode: 54, total numsteps: 5971, episode steps: 55, reward: 34.67
+Episode: 55, total numsteps: 6060, episode steps: 89, reward: 17.79
+Episode: 56, total numsteps: 7060, episode steps: 1000, reward: -375.24
+Episode: 57, total numsteps: 7087, episode steps: 27, reward: -4.15
+Episode: 58, total numsteps: 7124, episode steps: 37, reward: 4.7
+Episode: 59, total numsteps: 7141, episode steps: 17, reward: -9.71
+Episode: 60, total numsteps: 7167, episode steps: 26, reward: -9.76
+----------------------------------------
+Test Episode: 60, reward: -25.08
+----------------------------------------
+Episode: 61, total numsteps: 8167, episode steps: 1000, reward: -358.79
+Episode: 62, total numsteps: 8240, episode steps: 73, reward: 0.76
+Episode: 63, total numsteps: 8345, episode steps: 105, reward: -43.87
+Episode: 64, total numsteps: 8448, episode steps: 103, reward: -20.02
+Episode: 65, total numsteps: 8486, episode steps: 38, reward: 15.54
+Episode: 66, total numsteps: 8518, episode steps: 32, reward: -10.04
+Episode: 67, total numsteps: 8544, episode steps: 26, reward: 13.3
+Episode: 68, total numsteps: 8559, episode steps: 15, reward: -8.29
+Episode: 69, total numsteps: 8602, episode steps: 43, reward: -7.18
+Episode: 70, total numsteps: 8744, episode steps: 142, reward: -66.51
+----------------------------------------
+Test Episode: 70, reward: -8.32
+----------------------------------------
+Episode: 71, total numsteps: 8812, episode steps: 68, reward: -15.15
+Episode: 72, total numsteps: 8885, episode steps: 73, reward: -62.39
+Episode: 73, total numsteps: 8945, episode steps: 60, reward: -19.92
+Episode: 74, total numsteps: 8961, episode steps: 16, reward: -2.87
+Episode: 75, total numsteps: 9020, episode steps: 59, reward: -37.47
+Episode: 76, total numsteps: 9118, episode steps: 98, reward: -21.59
+Episode: 77, total numsteps: 9197, episode steps: 79, reward: -26.69
+Episode: 78, total numsteps: 9270, episode steps: 73, reward: -75.6
+Episode: 79, total numsteps: 9394, episode steps: 124, reward: 10.13
+Episode: 80, total numsteps: 9425, episode steps: 31, reward: -8.93
+----------------------------------------
+Test Episode: 80, reward: -830.03
+----------------------------------------
+Episode: 81, total numsteps: 9601, episode steps: 176, reward: -55.33
+Episode: 82, total numsteps: 9639, episode steps: 38, reward: -28.8
+Episode: 83, total numsteps: 9761, episode steps: 122, reward: -15.1
+Episode: 84, total numsteps: 9814, episode steps: 53, reward: -23.56
+Episode: 85, total numsteps: 9952, episode steps: 138, reward: -20.48
+Episode: 86, total numsteps: 10952, episode steps: 1000, reward: -882.69
+Episode: 87, total numsteps: 10966, episode steps: 14, reward: -11.58
+Episode: 88, total numsteps: 11966, episode steps: 1000, reward: -730.68
+Episode: 89, total numsteps: 12966, episode steps: 1000, reward: -611.45
+Episode: 90, total numsteps: 13035, episode steps: 69, reward: -86.51
+----------------------------------------
+Test Episode: 90, reward: 54.74
+----------------------------------------
+Episode: 91, total numsteps: 13216, episode steps: 181, reward: -128.32
+Episode: 92, total numsteps: 14216, episode steps: 1000, reward: -398.64
+Episode: 93, total numsteps: 14260, episode steps: 44, reward: -5.08
+Episode: 94, total numsteps: 15260, episode steps: 1000, reward: -332.44
+Episode: 95, total numsteps: 15527, episode steps: 267, reward: -35.34
+Episode: 96, total numsteps: 15627, episode steps: 100, reward: 10.73
+Episode: 97, total numsteps: 15728, episode steps: 101, reward: -31.46
+Episode: 98, total numsteps: 15808, episode steps: 80, reward: 27.96
+Episode: 99, total numsteps: 15857, episode steps: 49, reward: -24.98
+Episode: 100, total numsteps: 15909, episode steps: 52, reward: -32.05
+----------------------------------------
+Test Episode: 100, reward: 236.12
+----------------------------------------
+Episode: 101, total numsteps: 15981, episode steps: 72, reward: 17.36
+Episode: 102, total numsteps: 16007, episode steps: 26, reward: 0.11
+Episode: 103, total numsteps: 17007, episode steps: 1000, reward: -219.62
+Episode: 104, total numsteps: 18007, episode steps: 1000, reward: -165.02
+Episode: 105, total numsteps: 18184, episode steps: 177, reward: 7.02
+Episode: 106, total numsteps: 18274, episode steps: 90, reward: 8.14
+Episode: 107, total numsteps: 18375, episode steps: 101, reward: -22.89
+Episode: 108, total numsteps: 18559, episode steps: 184, reward: -17.63
+Episode: 109, total numsteps: 18596, episode steps: 37, reward: 5.42
+Episode: 110, total numsteps: 18633, episode steps: 37, reward: 1.89
+----------------------------------------
+Test Episode: 110, reward: 20.77
+----------------------------------------
+Episode: 111, total numsteps: 18721, episode steps: 88, reward: -12.03
+Episode: 112, total numsteps: 18743, episode steps: 22, reward: -0.36
+Episode: 113, total numsteps: 19139, episode steps: 396, reward: -42.84
+Episode: 114, total numsteps: 20139, episode steps: 1000, reward: -73.38
+Episode: 115, total numsteps: 20173, episode steps: 34, reward: 5.18
+Episode: 116, total numsteps: 21173, episode steps: 1000, reward: -88.13
+Episode: 117, total numsteps: 21309, episode steps: 136, reward: 11.06
+Episode: 118, total numsteps: 22309, episode steps: 1000, reward: 7.19
+Episode: 119, total numsteps: 22359, episode steps: 50, reward: 8.89
+Episode: 120, total numsteps: 23359, episode steps: 1000, reward: -148.28
+----------------------------------------
+Test Episode: 120, reward: 31.17
+----------------------------------------
+Episode: 121, total numsteps: 24359, episode steps: 1000, reward: -89.47
+Episode: 122, total numsteps: 24510, episode steps: 151, reward: 18.79
+Episode: 123, total numsteps: 24582, episode steps: 72, reward: 7.24
+Episode: 124, total numsteps: 24657, episode steps: 75, reward: -33.08
+Episode: 125, total numsteps: 24873, episode steps: 216, reward: -42.24
+Episode: 126, total numsteps: 24971, episode steps: 98, reward: -7.71
+Episode: 127, total numsteps: 24983, episode steps: 12, reward: 0.35
+Episode: 128, total numsteps: 25983, episode steps: 1000, reward: -89.51
+Episode: 129, total numsteps: 26983, episode steps: 1000, reward: -151.7
+Episode: 130, total numsteps: 27028, episode steps: 45, reward: 1.87
+----------------------------------------
+Test Episode: 130, reward: 52.01
+----------------------------------------
+Episode: 131, total numsteps: 27165, episode steps: 137, reward: 56.11
+Episode: 132, total numsteps: 27219, episode steps: 54, reward: 42.05
+Episode: 133, total numsteps: 27390, episode steps: 171, reward: 28.47
+Episode: 134, total numsteps: 27418, episode steps: 28, reward: 5.69
+Episode: 135, total numsteps: 27516, episode steps: 98, reward: 34.82
+Episode: 136, total numsteps: 28516, episode steps: 1000, reward: -138.93
+Episode: 137, total numsteps: 28789, episode steps: 273, reward: 20.11
+Episode: 138, total numsteps: 28845, episode steps: 56, reward: 18.12
+Episode: 139, total numsteps: 28965, episode steps: 120, reward: -18.17
+Episode: 140, total numsteps: 29016, episode steps: 51, reward: 3.36
+----------------------------------------
+Test Episode: 140, reward: 697.91
+----------------------------------------
+Episode: 141, total numsteps: 29055, episode steps: 39, reward: -16.42
+Episode: 142, total numsteps: 29868, episode steps: 813, reward: -134.67
+Episode: 143, total numsteps: 29942, episode steps: 74, reward: 6.07
+Episode: 144, total numsteps: 29971, episode steps: 29, reward: 8.84
+Episode: 145, total numsteps: 30422, episode steps: 451, reward: 50.26
+Episode: 146, total numsteps: 31422, episode steps: 1000, reward: -105.1
+Episode: 147, total numsteps: 32422, episode steps: 1000, reward: -11.3
+Episode: 148, total numsteps: 32714, episode steps: 292, reward: -31.91
+Episode: 149, total numsteps: 33714, episode steps: 1000, reward: -36.91
+Episode: 150, total numsteps: 33814, episode steps: 100, reward: 44.01
+----------------------------------------
+Test Episode: 150, reward: 739.61
+----------------------------------------
+Episode: 151, total numsteps: 34241, episode steps: 427, reward: 50.21
+Episode: 152, total numsteps: 34266, episode steps: 25, reward: 7.17
+Episode: 153, total numsteps: 34581, episode steps: 315, reward: -23.75
+Episode: 154, total numsteps: 34816, episode steps: 235, reward: -8.72
+Episode: 155, total numsteps: 35082, episode steps: 266, reward: -31.07
+Episode: 156, total numsteps: 35693, episode steps: 611, reward: 24.86
+Episode: 157, total numsteps: 35747, episode steps: 54, reward: 23.5
+Episode: 158, total numsteps: 35796, episode steps: 49, reward: 33.78
+Episode: 159, total numsteps: 35869, episode steps: 73, reward: 13.59
+Episode: 160, total numsteps: 35948, episode steps: 79, reward: -2.22
+----------------------------------------
+Test Episode: 160, reward: 613.86
+----------------------------------------
+Episode: 161, total numsteps: 35998, episode steps: 50, reward: -6.54
+Episode: 162, total numsteps: 36022, episode steps: 24, reward: 21.04
+Episode: 163, total numsteps: 36099, episode steps: 77, reward: 17.52
+Episode: 164, total numsteps: 36367, episode steps: 268, reward: 100.15
+Episode: 165, total numsteps: 36543, episode steps: 176, reward: 64.49
+Episode: 166, total numsteps: 37543, episode steps: 1000, reward: 22.09
+Episode: 167, total numsteps: 38181, episode steps: 638, reward: 49.86
+Episode: 168, total numsteps: 38255, episode steps: 74, reward: 34.49
+Episode: 169, total numsteps: 38538, episode steps: 283, reward: 146.56
+Episode: 170, total numsteps: 39538, episode steps: 1000, reward: 132.37
+----------------------------------------
+Test Episode: 170, reward: 658.55
+----------------------------------------
+Episode: 171, total numsteps: 39742, episode steps: 204, reward: 94.26
+Episode: 172, total numsteps: 40742, episode steps: 1000, reward: 100.85
+Episode: 173, total numsteps: 40970, episode steps: 228, reward: 119.25
+Episode: 174, total numsteps: 41970, episode steps: 1000, reward: 65.32
+Episode: 175, total numsteps: 42970, episode steps: 1000, reward: 78.22
+Episode: 176, total numsteps: 43042, episode steps: 72, reward: 23.87
+Episode: 177, total numsteps: 44042, episode steps: 1000, reward: 51.71
+Episode: 178, total numsteps: 45042, episode steps: 1000, reward: 46.13
+Episode: 179, total numsteps: 45270, episode steps: 228, reward: 111.58
+Episode: 180, total numsteps: 46270, episode steps: 1000, reward: 155.7
+----------------------------------------
+Test Episode: 180, reward: 767.49
+----------------------------------------
+Episode: 181, total numsteps: 46295, episode steps: 25, reward: -0.14
+Episode: 182, total numsteps: 46385, episode steps: 90, reward: -18.7
+Episode: 183, total numsteps: 47385, episode steps: 1000, reward: 254.97
+Episode: 184, total numsteps: 48385, episode steps: 1000, reward: 55.99
+Episode: 185, total numsteps: 49205, episode steps: 820, reward: 1.65
+Episode: 186, total numsteps: 50205, episode steps: 1000, reward: 122.91
+Episode: 187, total numsteps: 51205, episode steps: 1000, reward: 86.34
+Episode: 188, total numsteps: 52205, episode steps: 1000, reward: 126.57
+Episode: 189, total numsteps: 52335, episode steps: 130, reward: 81.78
+Episode: 190, total numsteps: 53335, episode steps: 1000, reward: 37.95
+----------------------------------------
+Test Episode: 190, reward: 1020.83
+----------------------------------------
+Episode: 191, total numsteps: 53383, episode steps: 48, reward: 19.85
+Episode: 192, total numsteps: 54383, episode steps: 1000, reward: 109.8
+Episode: 193, total numsteps: 55383, episode steps: 1000, reward: 78.3
+Episode: 194, total numsteps: 55743, episode steps: 360, reward: 197.66
+Episode: 195, total numsteps: 55838, episode steps: 95, reward: 60.68
+Episode: 196, total numsteps: 56232, episode steps: 394, reward: 146.6
+Episode: 197, total numsteps: 56308, episode steps: 76, reward: 33.18
+Episode: 198, total numsteps: 57102, episode steps: 794, reward: 244.22
+Episode: 199, total numsteps: 57145, episode steps: 43, reward: 21.91
+Episode: 200, total numsteps: 57332, episode steps: 187, reward: 123.26
+----------------------------------------
+Test Episode: 200, reward: 1087.85
+----------------------------------------
+Episode: 201, total numsteps: 57593, episode steps: 261, reward: 86.27
+Episode: 202, total numsteps: 57727, episode steps: 134, reward: 46.2
+Episode: 203, total numsteps: 58727, episode steps: 1000, reward: 87.26
+Episode: 204, total numsteps: 59727, episode steps: 1000, reward: 160.33
+Episode: 205, total numsteps: 60727, episode steps: 1000, reward: 109.04
+Episode: 206, total numsteps: 60866, episode steps: 139, reward: 87.21
+Episode: 207, total numsteps: 60946, episode steps: 80, reward: 48.11
+Episode: 208, total numsteps: 61307, episode steps: 361, reward: 204.99
+Episode: 209, total numsteps: 61877, episode steps: 570, reward: 271.87
+Episode: 210, total numsteps: 61924, episode steps: 47, reward: 16.22
+----------------------------------------
+Test Episode: 210, reward: 722.3
+----------------------------------------
+Episode: 211, total numsteps: 62924, episode steps: 1000, reward: 305.94
+Episode: 212, total numsteps: 63121, episode steps: 197, reward: 91.9
+Episode: 213, total numsteps: 63721, episode steps: 600, reward: 282.29
+Episode: 214, total numsteps: 64721, episode steps: 1000, reward: 298.91
+Episode: 215, total numsteps: 65721, episode steps: 1000, reward: 119.24
+Episode: 216, total numsteps: 66721, episode steps: 1000, reward: 317.99
+Episode: 217, total numsteps: 66765, episode steps: 44, reward: 36.31
+Episode: 218, total numsteps: 67765, episode steps: 1000, reward: 201.79
+Episode: 219, total numsteps: 67826, episode steps: 61, reward: 20.01
+Episode: 220, total numsteps: 67960, episode steps: 134, reward: 81.13
+----------------------------------------
+Test Episode: 220, reward: 890.8
+----------------------------------------
+Episode: 221, total numsteps: 68286, episode steps: 326, reward: 240.25
+Episode: 222, total numsteps: 68379, episode steps: 93, reward: 35.13
+Episode: 223, total numsteps: 69379, episode steps: 1000, reward: 101.96
+Episode: 224, total numsteps: 69564, episode steps: 185, reward: 133.86
+Episode: 225, total numsteps: 69584, episode steps: 20, reward: 9.53
+Episode: 226, total numsteps: 70584, episode steps: 1000, reward: 182.02
+Episode: 227, total numsteps: 70860, episode steps: 276, reward: 180.67
+Episode: 228, total numsteps: 71027, episode steps: 167, reward: 67.92
+Episode: 229, total numsteps: 71503, episode steps: 476, reward: 240.64
+Episode: 230, total numsteps: 72040, episode steps: 537, reward: 254.85
+----------------------------------------
+Test Episode: 230, reward: 802.34
+----------------------------------------
+Episode: 231, total numsteps: 72378, episode steps: 338, reward: 117.95
+Episode: 232, total numsteps: 72462, episode steps: 84, reward: 55.62
+Episode: 233, total numsteps: 72671, episode steps: 209, reward: 130.21
+Episode: 234, total numsteps: 73671, episode steps: 1000, reward: 212.26
+Episode: 235, total numsteps: 73751, episode steps: 80, reward: 55.14
+Episode: 236, total numsteps: 73850, episode steps: 99, reward: 76.02
+Episode: 237, total numsteps: 74135, episode steps: 285, reward: 200.73
+Episode: 238, total numsteps: 75135, episode steps: 1000, reward: 608.87
+Episode: 239, total numsteps: 76135, episode steps: 1000, reward: 130.25
+Episode: 240, total numsteps: 77135, episode steps: 1000, reward: 484.61
+----------------------------------------
+Test Episode: 240, reward: 856.73
+----------------------------------------
+Episode: 241, total numsteps: 77398, episode steps: 263, reward: 107.37
+Episode: 242, total numsteps: 78398, episode steps: 1000, reward: 230.36
+Episode: 243, total numsteps: 79305, episode steps: 907, reward: 486.62
+Episode: 244, total numsteps: 80305, episode steps: 1000, reward: 348.27
+Episode: 245, total numsteps: 81305, episode steps: 1000, reward: 379.17
+Episode: 246, total numsteps: 81324, episode steps: 19, reward: 11.36
+Episode: 247, total numsteps: 81376, episode steps: 52, reward: 91.73
+Episode: 248, total numsteps: 82376, episode steps: 1000, reward: 290.43
+Episode: 249, total numsteps: 83376, episode steps: 1000, reward: 269.91
+Episode: 250, total numsteps: 83451, episode steps: 75, reward: 47.97
+----------------------------------------
+Test Episode: 250, reward: 1137.07
+----------------------------------------
+Episode: 251, total numsteps: 84451, episode steps: 1000, reward: 218.57
+Episode: 252, total numsteps: 84502, episode steps: 51, reward: 20.69
+Episode: 253, total numsteps: 84556, episode steps: 54, reward: 37.55
+Episode: 254, total numsteps: 84687, episode steps: 131, reward: 116.56
+Episode: 255, total numsteps: 85687, episode steps: 1000, reward: 199.25
+Episode: 256, total numsteps: 86687, episode steps: 1000, reward: 230.47
+Episode: 257, total numsteps: 87687, episode steps: 1000, reward: 236.66
+Episode: 258, total numsteps: 88687, episode steps: 1000, reward: 165.4
+Episode: 259, total numsteps: 88718, episode steps: 31, reward: 27.75
+Episode: 260, total numsteps: 89718, episode steps: 1000, reward: 283.06
+----------------------------------------
+Test Episode: 260, reward: 930.87
+----------------------------------------
+Episode: 261, total numsteps: 89740, episode steps: 22, reward: 4.89
+Episode: 262, total numsteps: 90662, episode steps: 922, reward: 665.35
+Episode: 263, total numsteps: 90884, episode steps: 222, reward: 196.24
+Episode: 264, total numsteps: 91884, episode steps: 1000, reward: 291.9
+Episode: 265, total numsteps: 92055, episode steps: 171, reward: 78.49
+Episode: 266, total numsteps: 92080, episode steps: 25, reward: 21.32
+Episode: 267, total numsteps: 92478, episode steps: 398, reward: 369.1
+Episode: 268, total numsteps: 93478, episode steps: 1000, reward: 188.21
+Episode: 269, total numsteps: 93633, episode steps: 155, reward: 123.44
+Episode: 270, total numsteps: 94633, episode steps: 1000, reward: 220.99
+----------------------------------------
+Test Episode: 270, reward: 747.52
+----------------------------------------
+Episode: 271, total numsteps: 95633, episode steps: 1000, reward: 225.95
+Episode: 272, total numsteps: 96633, episode steps: 1000, reward: 411.03
+Episode: 273, total numsteps: 97070, episode steps: 437, reward: 403.4
+Episode: 274, total numsteps: 97143, episode steps: 73, reward: 67.14
+Episode: 275, total numsteps: 97214, episode steps: 71, reward: 58.22
+Episode: 276, total numsteps: 97320, episode steps: 106, reward: 122.92
+Episode: 277, total numsteps: 98320, episode steps: 1000, reward: 328.49
+Episode: 278, total numsteps: 99320, episode steps: 1000, reward: 454.49
+Episode: 279, total numsteps: 99688, episode steps: 368, reward: 377.23
+Episode: 280, total numsteps: 100357, episode steps: 669, reward: 564.34
+----------------------------------------
+Test Episode: 280, reward: 1347.6
+----------------------------------------
+Episode: 281, total numsteps: 101357, episode steps: 1000, reward: 493.42
+Episode: 282, total numsteps: 101551, episode steps: 194, reward: 240.65
+Episode: 283, total numsteps: 102551, episode steps: 1000, reward: 378.1
+Episode: 284, total numsteps: 103551, episode steps: 1000, reward: 328.3
+Episode: 285, total numsteps: 104551, episode steps: 1000, reward: 568.42
+Episode: 286, total numsteps: 104785, episode steps: 234, reward: 134.93
+Episode: 287, total numsteps: 105367, episode steps: 582, reward: 480.41
+Episode: 288, total numsteps: 106031, episode steps: 664, reward: 457.06
+Episode: 289, total numsteps: 107031, episode steps: 1000, reward: 237.77
+Episode: 290, total numsteps: 108031, episode steps: 1000, reward: 260.37
+----------------------------------------
+Test Episode: 290, reward: 1311.01
+----------------------------------------
+Episode: 291, total numsteps: 108538, episode steps: 507, reward: 284.98
+Episode: 292, total numsteps: 108870, episode steps: 332, reward: 317.05
+Episode: 293, total numsteps: 109870, episode steps: 1000, reward: 399.62
+Episode: 294, total numsteps: 110870, episode steps: 1000, reward: 402.72
+Episode: 295, total numsteps: 111870, episode steps: 1000, reward: 984.44
+Episode: 296, total numsteps: 112870, episode steps: 1000, reward: 232.58
+Episode: 297, total numsteps: 113870, episode steps: 1000, reward: 576.09
+Episode: 298, total numsteps: 114870, episode steps: 1000, reward: 548.16
+Episode: 299, total numsteps: 115870, episode steps: 1000, reward: 226.46
+Episode: 300, total numsteps: 116058, episode steps: 188, reward: 310.22
+----------------------------------------
+Test Episode: 300, reward: 66.93
+----------------------------------------
+Episode: 301, total numsteps: 117058, episode steps: 1000, reward: 828.36
+Episode: 302, total numsteps: 118058, episode steps: 1000, reward: 311.04
+Episode: 303, total numsteps: 118183, episode steps: 125, reward: 129.8
+Episode: 304, total numsteps: 119183, episode steps: 1000, reward: 554.24
+Episode: 305, total numsteps: 120183, episode steps: 1000, reward: 300.08
+Episode: 306, total numsteps: 121183, episode steps: 1000, reward: 311.96
+Episode: 307, total numsteps: 121261, episode steps: 78, reward: 105.37
+Episode: 308, total numsteps: 121279, episode steps: 18, reward: 26.4
+Episode: 309, total numsteps: 121296, episode steps: 17, reward: -1.4
+Episode: 310, total numsteps: 122296, episode steps: 1000, reward: 217.71
+----------------------------------------
+Test Episode: 310, reward: 971.1
+----------------------------------------
+Episode: 311, total numsteps: 122485, episode steps: 189, reward: 137.7
+Episode: 312, total numsteps: 123485, episode steps: 1000, reward: 329.15
+Episode: 313, total numsteps: 123623, episode steps: 138, reward: 176.18
+Episode: 314, total numsteps: 124060, episode steps: 437, reward: 393.49
+Episode: 315, total numsteps: 124241, episode steps: 181, reward: 199.59
+Episode: 316, total numsteps: 125241, episode steps: 1000, reward: 288.84
+Episode: 317, total numsteps: 125360, episode steps: 119, reward: 201.39
+Episode: 318, total numsteps: 126360, episode steps: 1000, reward: 381.04
+Episode: 319, total numsteps: 126580, episode steps: 220, reward: 287.46
+Episode: 320, total numsteps: 127580, episode steps: 1000, reward: 420.57
+----------------------------------------
+Test Episode: 320, reward: 989.98
+----------------------------------------
+Episode: 321, total numsteps: 128018, episode steps: 438, reward: 559.02
+Episode: 322, total numsteps: 128300, episode steps: 282, reward: 390.94
+Episode: 323, total numsteps: 129300, episode steps: 1000, reward: 314.16
+Episode: 324, total numsteps: 129428, episode steps: 128, reward: 176.4
+Episode: 325, total numsteps: 130428, episode steps: 1000, reward: 551.38
+Episode: 326, total numsteps: 130628, episode steps: 200, reward: 246.38
+Episode: 327, total numsteps: 131065, episode steps: 437, reward: 691.29
+Episode: 328, total numsteps: 132065, episode steps: 1000, reward: 551.02
+Episode: 329, total numsteps: 132180, episode steps: 115, reward: 114.51
+Episode: 330, total numsteps: 133180, episode steps: 1000, reward: 232.55
+----------------------------------------
+Test Episode: 330, reward: 1114.07
+----------------------------------------
+Episode: 331, total numsteps: 134180, episode steps: 1000, reward: 265.87
+Episode: 332, total numsteps: 135180, episode steps: 1000, reward: 621.51
+Episode: 333, total numsteps: 136180, episode steps: 1000, reward: 685.47
+Episode: 334, total numsteps: 136247, episode steps: 67, reward: 106.75
+Episode: 335, total numsteps: 136421, episode steps: 174, reward: 213.96
+Episode: 336, total numsteps: 136448, episode steps: 27, reward: 32.82
+Episode: 337, total numsteps: 137448, episode steps: 1000, reward: 464.42
+Episode: 338, total numsteps: 137798, episode steps: 350, reward: 408.59
+Episode: 339, total numsteps: 138798, episode steps: 1000, reward: 1084.63
+Episode: 340, total numsteps: 139046, episode steps: 248, reward: 332.05
+----------------------------------------
+Test Episode: 340, reward: 943.76
+----------------------------------------
+Episode: 341, total numsteps: 140046, episode steps: 1000, reward: 426.79
+Episode: 342, total numsteps: 140386, episode steps: 340, reward: 410.56
+Episode: 343, total numsteps: 140885, episode steps: 499, reward: 594.22
+Episode: 344, total numsteps: 140969, episode steps: 84, reward: 139.25
+Episode: 345, total numsteps: 141969, episode steps: 1000, reward: 212.11
+Episode: 346, total numsteps: 142131, episode steps: 162, reward: 194.76
+Episode: 347, total numsteps: 143131, episode steps: 1000, reward: 490.0
+Episode: 348, total numsteps: 144131, episode steps: 1000, reward: 540.86
+Episode: 349, total numsteps: 144528, episode steps: 397, reward: 536.01
+Episode: 350, total numsteps: 144589, episode steps: 61, reward: 73.99
+----------------------------------------
+Test Episode: 350, reward: 900.12
+----------------------------------------
+Episode: 351, total numsteps: 145589, episode steps: 1000, reward: 254.95
+Episode: 352, total numsteps: 146589, episode steps: 1000, reward: 237.97
+Episode: 353, total numsteps: 147170, episode steps: 581, reward: 716.42
+Episode: 354, total numsteps: 148170, episode steps: 1000, reward: 384.98
+Episode: 355, total numsteps: 148532, episode steps: 362, reward: 558.22
+Episode: 356, total numsteps: 148710, episode steps: 178, reward: 217.07
+Episode: 357, total numsteps: 148849, episode steps: 139, reward: 219.6
+Episode: 358, total numsteps: 149849, episode steps: 1000, reward: 374.46
+Episode: 359, total numsteps: 149880, episode steps: 31, reward: 44.17
+Episode: 360, total numsteps: 150880, episode steps: 1000, reward: 167.59
+----------------------------------------
+Test Episode: 360, reward: 1205.09
+----------------------------------------
+Episode: 361, total numsteps: 151880, episode steps: 1000, reward: 168.26
+Episode: 362, total numsteps: 151946, episode steps: 66, reward: 116.33
+Episode: 363, total numsteps: 152025, episode steps: 79, reward: 32.03
+Episode: 364, total numsteps: 152385, episode steps: 360, reward: 507.55
+Episode: 365, total numsteps: 153385, episode steps: 1000, reward: 362.09
+Episode: 366, total numsteps: 154385, episode steps: 1000, reward: 500.06
+Episode: 367, total numsteps: 155246, episode steps: 861, reward: 1038.77
+Episode: 368, total numsteps: 155596, episode steps: 350, reward: 395.09
+Episode: 369, total numsteps: 155609, episode steps: 13, reward: 8.37
+Episode: 370, total numsteps: 156202, episode steps: 593, reward: 820.16
+----------------------------------------
+Test Episode: 370, reward: 1325.64
+----------------------------------------
+Episode: 371, total numsteps: 157202, episode steps: 1000, reward: 733.8
+Episode: 372, total numsteps: 157248, episode steps: 46, reward: 74.62
+Episode: 373, total numsteps: 157492, episode steps: 244, reward: 366.85
+Episode: 374, total numsteps: 158492, episode steps: 1000, reward: 628.24
+Episode: 375, total numsteps: 159492, episode steps: 1000, reward: 395.78
+Episode: 376, total numsteps: 159792, episode steps: 300, reward: 466.21
+Episode: 377, total numsteps: 160792, episode steps: 1000, reward: 376.73
+Episode: 378, total numsteps: 161792, episode steps: 1000, reward: 1033.54
+Episode: 379, total numsteps: 162088, episode steps: 296, reward: 460.91
+Episode: 380, total numsteps: 163088, episode steps: 1000, reward: 176.67
+----------------------------------------
+Test Episode: 380, reward: 2217.49
+----------------------------------------
+Episode: 381, total numsteps: 163296, episode steps: 208, reward: 391.84
+Episode: 382, total numsteps: 163671, episode steps: 375, reward: 511.97
+Episode: 383, total numsteps: 164671, episode steps: 1000, reward: 388.61
+Episode: 384, total numsteps: 165000, episode steps: 329, reward: 458.75
+Episode: 385, total numsteps: 166000, episode steps: 1000, reward: 380.45
+Episode: 386, total numsteps: 166179, episode steps: 179, reward: 203.29
+Episode: 387, total numsteps: 166242, episode steps: 63, reward: 54.4
+Episode: 388, total numsteps: 167242, episode steps: 1000, reward: 813.4
+Episode: 389, total numsteps: 168242, episode steps: 1000, reward: 789.34
+Episode: 390, total numsteps: 169242, episode steps: 1000, reward: 501.8
+----------------------------------------
+Test Episode: 390, reward: 2283.02
+----------------------------------------
+Episode: 391, total numsteps: 169438, episode steps: 196, reward: 314.96
+Episode: 392, total numsteps: 170438, episode steps: 1000, reward: 567.68
+Episode: 393, total numsteps: 171438, episode steps: 1000, reward: 1071.54
+Episode: 394, total numsteps: 172438, episode steps: 1000, reward: 517.89
+Episode: 395, total numsteps: 173407, episode steps: 969, reward: 1570.77
+Episode: 396, total numsteps: 174407, episode steps: 1000, reward: 1612.94
+Episode: 397, total numsteps: 175407, episode steps: 1000, reward: 208.84
+Episode: 398, total numsteps: 176407, episode steps: 1000, reward: 516.43
+Episode: 399, total numsteps: 177407, episode steps: 1000, reward: 405.51
+Episode: 400, total numsteps: 178407, episode steps: 1000, reward: 277.04
+----------------------------------------
+Test Episode: 400, reward: 915.8
+----------------------------------------
+Episode: 401, total numsteps: 179407, episode steps: 1000, reward: 351.2
+Episode: 402, total numsteps: 180407, episode steps: 1000, reward: 241.19
+Episode: 403, total numsteps: 180496, episode steps: 89, reward: 160.19
+Episode: 404, total numsteps: 180793, episode steps: 297, reward: 529.65
+Episode: 405, total numsteps: 181793, episode steps: 1000, reward: 221.89
+Episode: 406, total numsteps: 182793, episode steps: 1000, reward: 176.52
+Episode: 407, total numsteps: 183793, episode steps: 1000, reward: 801.91
+Episode: 408, total numsteps: 184793, episode steps: 1000, reward: 308.61
+Episode: 409, total numsteps: 185793, episode steps: 1000, reward: 641.38
+Episode: 410, total numsteps: 185908, episode steps: 115, reward: 139.19
+----------------------------------------
+Test Episode: 410, reward: 1261.99
+----------------------------------------
+Episode: 411, total numsteps: 186908, episode steps: 1000, reward: 852.19
+Episode: 412, total numsteps: 187014, episode steps: 106, reward: 101.85
+Episode: 413, total numsteps: 187191, episode steps: 177, reward: 338.19
+Episode: 414, total numsteps: 188191, episode steps: 1000, reward: 1104.01
+Episode: 415, total numsteps: 189191, episode steps: 1000, reward: 456.21
+Episode: 416, total numsteps: 189799, episode steps: 608, reward: 1086.85
+Episode: 417, total numsteps: 190799, episode steps: 1000, reward: 814.95
+Episode: 418, total numsteps: 190896, episode steps: 97, reward: 85.94
+Episode: 419, total numsteps: 191896, episode steps: 1000, reward: 250.46
+Episode: 420, total numsteps: 192896, episode steps: 1000, reward: 252.0
+----------------------------------------
+Test Episode: 420, reward: 1250.38
+----------------------------------------
+Episode: 421, total numsteps: 193673, episode steps: 777, reward: 1415.2
+Episode: 422, total numsteps: 194673, episode steps: 1000, reward: 318.59
+Episode: 423, total numsteps: 194703, episode steps: 30, reward: 36.26
+Episode: 424, total numsteps: 194784, episode steps: 81, reward: 129.46
+Episode: 425, total numsteps: 195784, episode steps: 1000, reward: 891.36
+Episode: 426, total numsteps: 196784, episode steps: 1000, reward: 1325.65
+Episode: 427, total numsteps: 197784, episode steps: 1000, reward: 329.39
+Episode: 428, total numsteps: 197924, episode steps: 140, reward: 263.87
+Episode: 429, total numsteps: 198924, episode steps: 1000, reward: 205.56
+Episode: 430, total numsteps: 199924, episode steps: 1000, reward: 566.93
+----------------------------------------
+Test Episode: 430, reward: 1552.39
+----------------------------------------
+Episode: 431, total numsteps: 200924, episode steps: 1000, reward: 887.85
+Episode: 432, total numsteps: 201924, episode steps: 1000, reward: 309.57
+Episode: 433, total numsteps: 202924, episode steps: 1000, reward: 893.85
+Episode: 434, total numsteps: 202981, episode steps: 57, reward: 123.72
+Episode: 435, total numsteps: 203056, episode steps: 75, reward: 134.53
+Episode: 436, total numsteps: 204056, episode steps: 1000, reward: 313.13
+Episode: 437, total numsteps: 205056, episode steps: 1000, reward: 1474.05
+Episode: 438, total numsteps: 205693, episode steps: 637, reward: 1376.99
+Episode: 439, total numsteps: 206693, episode steps: 1000, reward: 667.45
+Episode: 440, total numsteps: 206959, episode steps: 266, reward: 493.75
+----------------------------------------
+Test Episode: 440, reward: 2465.39
+----------------------------------------
+Episode: 441, total numsteps: 207144, episode steps: 185, reward: 357.5
+Episode: 442, total numsteps: 207160, episode steps: 16, reward: 10.23
+Episode: 443, total numsteps: 208160, episode steps: 1000, reward: 682.38
+Episode: 444, total numsteps: 209160, episode steps: 1000, reward: 750.11
+Episode: 445, total numsteps: 209376, episode steps: 216, reward: 360.68
+Episode: 446, total numsteps: 209845, episode steps: 469, reward: 801.27
+Episode: 447, total numsteps: 210845, episode steps: 1000, reward: 434.24
+Episode: 448, total numsteps: 210947, episode steps: 102, reward: 158.86
+Episode: 449, total numsteps: 211128, episode steps: 181, reward: 340.58
+Episode: 450, total numsteps: 212128, episode steps: 1000, reward: 1768.05
+----------------------------------------
+Test Episode: 450, reward: 1550.66
+----------------------------------------
+Episode: 451, total numsteps: 212211, episode steps: 83, reward: 146.93
+Episode: 452, total numsteps: 213211, episode steps: 1000, reward: 233.32
+Episode: 453, total numsteps: 213236, episode steps: 25, reward: 31.61
+Episode: 454, total numsteps: 214236, episode steps: 1000, reward: 203.14
+Episode: 455, total numsteps: 215236, episode steps: 1000, reward: 244.59
+Episode: 456, total numsteps: 215519, episode steps: 283, reward: 434.56
+Episode: 457, total numsteps: 216519, episode steps: 1000, reward: 614.72
+Episode: 458, total numsteps: 217519, episode steps: 1000, reward: 275.13
+Episode: 459, total numsteps: 218519, episode steps: 1000, reward: 2044.72
+Episode: 460, total numsteps: 218738, episode steps: 219, reward: 381.1
+----------------------------------------
+Test Episode: 460, reward: 2500.24
+----------------------------------------
+Episode: 461, total numsteps: 219205, episode steps: 467, reward: 933.09
+Episode: 462, total numsteps: 220205, episode steps: 1000, reward: 663.89
+Episode: 463, total numsteps: 221205, episode steps: 1000, reward: 739.8
+Episode: 464, total numsteps: 222205, episode steps: 1000, reward: 1158.28
+Episode: 465, total numsteps: 223205, episode steps: 1000, reward: 522.32
+Episode: 466, total numsteps: 223286, episode steps: 81, reward: 128.12
+Episode: 467, total numsteps: 223469, episode steps: 183, reward: 395.87
+Episode: 468, total numsteps: 224469, episode steps: 1000, reward: 797.32
+Episode: 469, total numsteps: 224744, episode steps: 275, reward: 472.98
+Episode: 470, total numsteps: 225600, episode steps: 856, reward: 1754.5
+----------------------------------------
+Test Episode: 470, reward: 883.86
+----------------------------------------
+Episode: 471, total numsteps: 226600, episode steps: 1000, reward: 411.01
+Episode: 472, total numsteps: 227600, episode steps: 1000, reward: 2005.97
+Episode: 473, total numsteps: 228600, episode steps: 1000, reward: 1455.04
+Episode: 474, total numsteps: 228721, episode steps: 121, reward: 261.51
+Episode: 475, total numsteps: 229052, episode steps: 331, reward: 734.42
+Episode: 476, total numsteps: 230052, episode steps: 1000, reward: 924.06
+Episode: 477, total numsteps: 230328, episode steps: 276, reward: 517.87
+Episode: 478, total numsteps: 231328, episode steps: 1000, reward: 307.74
+Episode: 479, total numsteps: 232304, episode steps: 976, reward: 2065.29
+Episode: 480, total numsteps: 232455, episode steps: 151, reward: 282.5
+----------------------------------------
+Test Episode: 480, reward: 2252.7
+----------------------------------------
+Episode: 481, total numsteps: 233455, episode steps: 1000, reward: 676.66
+Episode: 482, total numsteps: 234455, episode steps: 1000, reward: 331.9
+Episode: 483, total numsteps: 234715, episode steps: 260, reward: 461.44
+Episode: 484, total numsteps: 235715, episode steps: 1000, reward: 1519.27
+Episode: 485, total numsteps: 236715, episode steps: 1000, reward: 431.67
+Episode: 486, total numsteps: 237216, episode steps: 501, reward: 910.36
+Episode: 487, total numsteps: 237309, episode steps: 93, reward: 191.73
+Episode: 488, total numsteps: 237603, episode steps: 294, reward: 661.99
+Episode: 489, total numsteps: 238023, episode steps: 420, reward: 603.14
+Episode: 490, total numsteps: 238043, episode steps: 20, reward: 33.57
+----------------------------------------
+Test Episode: 490, reward: 1094.47
+----------------------------------------
+Episode: 491, total numsteps: 239043, episode steps: 1000, reward: 970.55
+Episode: 492, total numsteps: 239420, episode steps: 377, reward: 816.48
+Episode: 493, total numsteps: 240420, episode steps: 1000, reward: 283.08
+Episode: 494, total numsteps: 241420, episode steps: 1000, reward: 1034.9
+Episode: 495, total numsteps: 241739, episode steps: 319, reward: 673.23
+Episode: 496, total numsteps: 242739, episode steps: 1000, reward: 252.06
+Episode: 497, total numsteps: 243739, episode steps: 1000, reward: 1271.91
+Episode: 498, total numsteps: 244739, episode steps: 1000, reward: 860.92
+Episode: 499, total numsteps: 245739, episode steps: 1000, reward: 478.25
+Episode: 500, total numsteps: 246739, episode steps: 1000, reward: 1928.61
+----------------------------------------
+Test Episode: 500, reward: 758.21
+----------------------------------------
+Episode: 501, total numsteps: 247739, episode steps: 1000, reward: 776.79
+Episode: 502, total numsteps: 248739, episode steps: 1000, reward: 1105.24
+Episode: 503, total numsteps: 249158, episode steps: 419, reward: 811.71
+Episode: 504, total numsteps: 250025, episode steps: 867, reward: 1699.19
+Episode: 505, total numsteps: 251025, episode steps: 1000, reward: 1076.68
+Episode: 506, total numsteps: 252025, episode steps: 1000, reward: 1670.51
+Episode: 507, total numsteps: 253025, episode steps: 1000, reward: 2169.11
+Episode: 508, total numsteps: 253420, episode steps: 395, reward: 903.36
+Episode: 509, total numsteps: 253607, episode steps: 187, reward: 375.42
+Episode: 510, total numsteps: 254607, episode steps: 1000, reward: 2045.97
+----------------------------------------
+Test Episode: 510, reward: 1518.05
+----------------------------------------
+Episode: 511, total numsteps: 254688, episode steps: 81, reward: 115.78
+Episode: 512, total numsteps: 255688, episode steps: 1000, reward: 382.94
+Episode: 513, total numsteps: 255744, episode steps: 56, reward: 99.77
+Episode: 514, total numsteps: 256744, episode steps: 1000, reward: 798.78
+Episode: 515, total numsteps: 257345, episode steps: 601, reward: 1377.68
+Episode: 516, total numsteps: 258175, episode steps: 830, reward: 1749.7
+Episode: 517, total numsteps: 259175, episode steps: 1000, reward: 1186.34
+Episode: 518, total numsteps: 260175, episode steps: 1000, reward: 780.91
+Episode: 519, total numsteps: 260958, episode steps: 783, reward: 1710.75
+Episode: 520, total numsteps: 261958, episode steps: 1000, reward: 1864.69
+----------------------------------------
+Test Episode: 520, reward: 2077.28
+----------------------------------------
+Episode: 521, total numsteps: 262958, episode steps: 1000, reward: 455.39
+Episode: 522, total numsteps: 263721, episode steps: 763, reward: 1523.35
+Episode: 523, total numsteps: 264721, episode steps: 1000, reward: 928.64
+Episode: 524, total numsteps: 265721, episode steps: 1000, reward: 1146.93
+Episode: 525, total numsteps: 266399, episode steps: 678, reward: 1453.05
+Episode: 526, total numsteps: 267399, episode steps: 1000, reward: 1522.63
+Episode: 527, total numsteps: 268399, episode steps: 1000, reward: 1516.87
+Episode: 528, total numsteps: 269399, episode steps: 1000, reward: 1219.89
+Episode: 529, total numsteps: 270399, episode steps: 1000, reward: 2409.85
+Episode: 530, total numsteps: 271399, episode steps: 1000, reward: 773.02
+----------------------------------------
+Test Episode: 530, reward: 1446.99
+----------------------------------------
+Episode: 531, total numsteps: 272399, episode steps: 1000, reward: 823.12
+Episode: 532, total numsteps: 273313, episode steps: 914, reward: 2183.14
+Episode: 533, total numsteps: 274313, episode steps: 1000, reward: 2345.21
+Episode: 534, total numsteps: 274934, episode steps: 621, reward: 1355.87
+Episode: 535, total numsteps: 275089, episode steps: 155, reward: 299.41
+Episode: 536, total numsteps: 276089, episode steps: 1000, reward: 2362.99
+Episode: 537, total numsteps: 276222, episode steps: 133, reward: 272.02
+Episode: 538, total numsteps: 276244, episode steps: 22, reward: 41.64
+Episode: 539, total numsteps: 277244, episode steps: 1000, reward: 722.78
+Episode: 540, total numsteps: 277769, episode steps: 525, reward: 1150.56
+----------------------------------------
+Test Episode: 540, reward: 2707.17
+----------------------------------------
+Episode: 541, total numsteps: 278769, episode steps: 1000, reward: 1208.08
+Episode: 542, total numsteps: 279769, episode steps: 1000, reward: 2194.9
+Episode: 543, total numsteps: 280769, episode steps: 1000, reward: 2445.79
+Episode: 544, total numsteps: 281769, episode steps: 1000, reward: 2243.47
+Episode: 545, total numsteps: 282769, episode steps: 1000, reward: 461.31
+Episode: 546, total numsteps: 283769, episode steps: 1000, reward: 445.96
+Episode: 547, total numsteps: 284769, episode steps: 1000, reward: 2513.01
+Episode: 548, total numsteps: 284980, episode steps: 211, reward: 509.29
+Episode: 549, total numsteps: 285980, episode steps: 1000, reward: 208.57
+Episode: 550, total numsteps: 286980, episode steps: 1000, reward: 1491.9
+----------------------------------------
+Test Episode: 550, reward: 907.52
+----------------------------------------
+Episode: 551, total numsteps: 287980, episode steps: 1000, reward: 184.77
+Episode: 552, total numsteps: 288980, episode steps: 1000, reward: 798.43
+Episode: 553, total numsteps: 289955, episode steps: 975, reward: 2402.39
+Episode: 554, total numsteps: 290955, episode steps: 1000, reward: 1471.78
+Episode: 555, total numsteps: 291955, episode steps: 1000, reward: 2481.28
+Episode: 556, total numsteps: 292955, episode steps: 1000, reward: 256.53
+Episode: 557, total numsteps: 293955, episode steps: 1000, reward: 2466.21
+Episode: 558, total numsteps: 294955, episode steps: 1000, reward: 2118.2
+Episode: 559, total numsteps: 295955, episode steps: 1000, reward: 655.07
+Episode: 560, total numsteps: 296423, episode steps: 468, reward: 1052.83
+----------------------------------------
+Test Episode: 560, reward: 14.62
+----------------------------------------
+Episode: 561, total numsteps: 297423, episode steps: 1000, reward: 1443.43
+Episode: 562, total numsteps: 297799, episode steps: 376, reward: 811.64
+Episode: 563, total numsteps: 297877, episode steps: 78, reward: 205.76
+Episode: 564, total numsteps: 298877, episode steps: 1000, reward: 2358.12
+Episode: 565, total numsteps: 299250, episode steps: 373, reward: 923.15
+Episode: 566, total numsteps: 299496, episode steps: 246, reward: 541.73
+Episode: 567, total numsteps: 299876, episode steps: 380, reward: 832.5
+Episode: 568, total numsteps: 300543, episode steps: 667, reward: 1745.34
+Episode: 569, total numsteps: 301543, episode steps: 1000, reward: 906.71
+Episode: 570, total numsteps: 302006, episode steps: 463, reward: 1215.97
+----------------------------------------
+Test Episode: 570, reward: 3016.35
+----------------------------------------
+Episode: 571, total numsteps: 303006, episode steps: 1000, reward: 2619.86
+Episode: 572, total numsteps: 304006, episode steps: 1000, reward: 2594.71
+Episode: 573, total numsteps: 305006, episode steps: 1000, reward: 366.36
+Episode: 574, total numsteps: 306006, episode steps: 1000, reward: 314.2
+Episode: 575, total numsteps: 307006, episode steps: 1000, reward: 512.53
+Episode: 576, total numsteps: 307396, episode steps: 390, reward: 437.82
+Episode: 577, total numsteps: 308396, episode steps: 1000, reward: 425.48
+Episode: 578, total numsteps: 309396, episode steps: 1000, reward: 2648.73
+Episode: 579, total numsteps: 310396, episode steps: 1000, reward: 2205.64
+Episode: 580, total numsteps: 311396, episode steps: 1000, reward: 2616.14
+----------------------------------------
+Test Episode: 580, reward: 2397.69
+----------------------------------------
+Episode: 581, total numsteps: 311727, episode steps: 331, reward: 782.0
+Episode: 582, total numsteps: 312727, episode steps: 1000, reward: 2748.35
+Episode: 583, total numsteps: 312951, episode steps: 224, reward: 520.06
+Episode: 584, total numsteps: 313951, episode steps: 1000, reward: 608.3
+Episode: 585, total numsteps: 314756, episode steps: 805, reward: 2017.25
+Episode: 586, total numsteps: 315756, episode steps: 1000, reward: 2649.41
+Episode: 587, total numsteps: 316756, episode steps: 1000, reward: 545.24
+Episode: 588, total numsteps: 317756, episode steps: 1000, reward: 2244.19
+Episode: 589, total numsteps: 318502, episode steps: 746, reward: 1865.49
+Episode: 590, total numsteps: 319502, episode steps: 1000, reward: 293.05
+----------------------------------------
+Test Episode: 590, reward: 2797.11
+----------------------------------------
+Episode: 591, total numsteps: 319704, episode steps: 202, reward: 393.31
+Episode: 592, total numsteps: 320704, episode steps: 1000, reward: 2312.48
+Episode: 593, total numsteps: 321704, episode steps: 1000, reward: 2592.81
+Episode: 594, total numsteps: 321768, episode steps: 64, reward: 148.77
+Episode: 595, total numsteps: 322768, episode steps: 1000, reward: 2698.89
+Episode: 596, total numsteps: 322926, episode steps: 158, reward: 362.26
+Episode: 597, total numsteps: 323709, episode steps: 783, reward: 1923.38
+Episode: 598, total numsteps: 323721, episode steps: 12, reward: -2.63
+Episode: 599, total numsteps: 323890, episode steps: 169, reward: 402.13
+Episode: 600, total numsteps: 324890, episode steps: 1000, reward: 2781.83
+----------------------------------------
+Test Episode: 600, reward: 695.23
+----------------------------------------
+Episode: 601, total numsteps: 325363, episode steps: 473, reward: 1276.58
+Episode: 602, total numsteps: 325913, episode steps: 550, reward: 1334.32
+Episode: 603, total numsteps: 326913, episode steps: 1000, reward: 2482.66
+Episode: 604, total numsteps: 327913, episode steps: 1000, reward: 2531.97
+Episode: 605, total numsteps: 327947, episode steps: 34, reward: 44.5
+Episode: 606, total numsteps: 328947, episode steps: 1000, reward: 2636.11
+Episode: 607, total numsteps: 329947, episode steps: 1000, reward: 1050.88
+Episode: 608, total numsteps: 330947, episode steps: 1000, reward: 1588.97
+Episode: 609, total numsteps: 331190, episode steps: 243, reward: 685.53
+Episode: 610, total numsteps: 332190, episode steps: 1000, reward: 307.04
+----------------------------------------
+Test Episode: 610, reward: 3037.01
+----------------------------------------
+Episode: 611, total numsteps: 333190, episode steps: 1000, reward: 344.32
+Episode: 612, total numsteps: 334190, episode steps: 1000, reward: 2645.03
+Episode: 613, total numsteps: 335190, episode steps: 1000, reward: 2697.03
+Episode: 614, total numsteps: 336190, episode steps: 1000, reward: 1534.19
+Episode: 615, total numsteps: 337190, episode steps: 1000, reward: 1204.19
+Episode: 616, total numsteps: 337261, episode steps: 71, reward: 125.99
+Episode: 617, total numsteps: 338068, episode steps: 807, reward: 2226.55
+Episode: 618, total numsteps: 338807, episode steps: 739, reward: 1844.57
+Episode: 619, total numsteps: 339181, episode steps: 374, reward: 1027.39
+Episode: 620, total numsteps: 339336, episode steps: 155, reward: 365.64
+----------------------------------------
+Test Episode: 620, reward: 3308.41
+----------------------------------------
+Episode: 621, total numsteps: 339760, episode steps: 424, reward: 1147.3
+Episode: 622, total numsteps: 340533, episode steps: 773, reward: 2171.92
+Episode: 623, total numsteps: 341533, episode steps: 1000, reward: 333.8
+Episode: 624, total numsteps: 341695, episode steps: 162, reward: 276.94
+Episode: 625, total numsteps: 342695, episode steps: 1000, reward: 2467.38
+Episode: 626, total numsteps: 343316, episode steps: 621, reward: 1632.14
+Episode: 627, total numsteps: 344316, episode steps: 1000, reward: 2541.86
+Episode: 628, total numsteps: 344498, episode steps: 182, reward: 457.22
+Episode: 629, total numsteps: 345498, episode steps: 1000, reward: 2814.09
+Episode: 630, total numsteps: 346498, episode steps: 1000, reward: 509.24
+----------------------------------------
+Test Episode: 630, reward: 2294.22
+----------------------------------------
+Episode: 631, total numsteps: 346522, episode steps: 24, reward: 17.77
+Episode: 632, total numsteps: 347131, episode steps: 609, reward: 1729.4
+Episode: 633, total numsteps: 348131, episode steps: 1000, reward: 1028.37
+Episode: 634, total numsteps: 349125, episode steps: 994, reward: 2709.45
+Episode: 635, total numsteps: 350125, episode steps: 1000, reward: 2600.07
+Episode: 636, total numsteps: 351125, episode steps: 1000, reward: 547.06
+Episode: 637, total numsteps: 352125, episode steps: 1000, reward: 2804.32
+Episode: 638, total numsteps: 352320, episode steps: 195, reward: 433.93
+Episode: 639, total numsteps: 352409, episode steps: 89, reward: 231.01
+Episode: 640, total numsteps: 352704, episode steps: 295, reward: 653.06
+----------------------------------------
+Test Episode: 640, reward: 1004.64
+----------------------------------------
+Episode: 641, total numsteps: 353292, episode steps: 588, reward: 1577.85
+Episode: 642, total numsteps: 354292, episode steps: 1000, reward: 2724.14
+Episode: 643, total numsteps: 355292, episode steps: 1000, reward: 2628.46
+Episode: 644, total numsteps: 356289, episode steps: 997, reward: 2654.31
+Episode: 645, total numsteps: 357034, episode steps: 745, reward: 2246.51
+Episode: 646, total numsteps: 358034, episode steps: 1000, reward: 2605.06
+Episode: 647, total numsteps: 358252, episode steps: 218, reward: 482.29
+Episode: 648, total numsteps: 359252, episode steps: 1000, reward: 1190.93
+Episode: 649, total numsteps: 360252, episode steps: 1000, reward: 1050.81
+Episode: 650, total numsteps: 361252, episode steps: 1000, reward: 1717.66
+----------------------------------------
+Test Episode: 650, reward: 2952.71
+----------------------------------------
+Episode: 651, total numsteps: 362252, episode steps: 1000, reward: 1083.31
+Episode: 652, total numsteps: 362786, episode steps: 534, reward: 1446.26
+Episode: 653, total numsteps: 363786, episode steps: 1000, reward: 2623.9
+Episode: 654, total numsteps: 364786, episode steps: 1000, reward: 2702.05
+Episode: 655, total numsteps: 365786, episode steps: 1000, reward: 2939.97
+Episode: 656, total numsteps: 366344, episode steps: 558, reward: 1502.93
+Episode: 657, total numsteps: 367344, episode steps: 1000, reward: 2701.93
+Episode: 658, total numsteps: 368344, episode steps: 1000, reward: 2647.82
+Episode: 659, total numsteps: 369344, episode steps: 1000, reward: 2851.86
+Episode: 660, total numsteps: 370344, episode steps: 1000, reward: 2764.64
+----------------------------------------
+Test Episode: 660, reward: 3403.57
+----------------------------------------
+Episode: 661, total numsteps: 371344, episode steps: 1000, reward: 360.02
+Episode: 662, total numsteps: 372344, episode steps: 1000, reward: 2855.03
+Episode: 663, total numsteps: 373344, episode steps: 1000, reward: 2748.17
+Episode: 664, total numsteps: 374344, episode steps: 1000, reward: 2625.93
+Episode: 665, total numsteps: 375344, episode steps: 1000, reward: 2276.43
+Episode: 666, total numsteps: 375814, episode steps: 470, reward: 1245.49
+Episode: 667, total numsteps: 376814, episode steps: 1000, reward: 1861.69
+Episode: 668, total numsteps: 377814, episode steps: 1000, reward: 2920.55
+Episode: 669, total numsteps: 378814, episode steps: 1000, reward: 2761.89
+Episode: 670, total numsteps: 378944, episode steps: 130, reward: 338.35
+----------------------------------------
+Test Episode: 670, reward: 3389.13
+----------------------------------------
+Episode: 671, total numsteps: 379944, episode steps: 1000, reward: 2907.57
+Episode: 672, total numsteps: 380044, episode steps: 100, reward: 311.74
+Episode: 673, total numsteps: 381044, episode steps: 1000, reward: 820.61
+Episode: 674, total numsteps: 382044, episode steps: 1000, reward: 3068.84
+Episode: 675, total numsteps: 382286, episode steps: 242, reward: 692.98
+Episode: 676, total numsteps: 382833, episode steps: 547, reward: 1638.42
+Episode: 677, total numsteps: 383833, episode steps: 1000, reward: 3011.31
+Episode: 678, total numsteps: 384833, episode steps: 1000, reward: 2860.31
+Episode: 679, total numsteps: 385570, episode steps: 737, reward: 1939.91
+Episode: 680, total numsteps: 386570, episode steps: 1000, reward: 1302.18
+----------------------------------------
+Test Episode: 680, reward: 3467.91
+----------------------------------------
+Episode: 681, total numsteps: 387570, episode steps: 1000, reward: 2902.41
+Episode: 682, total numsteps: 387653, episode steps: 83, reward: 178.08
+Episode: 683, total numsteps: 387771, episode steps: 118, reward: 328.0
+Episode: 684, total numsteps: 387879, episode steps: 108, reward: 255.84
+Episode: 685, total numsteps: 388048, episode steps: 169, reward: 423.66
+Episode: 686, total numsteps: 389048, episode steps: 1000, reward: 853.44
+Episode: 687, total numsteps: 390048, episode steps: 1000, reward: 2545.61
+Episode: 688, total numsteps: 391048, episode steps: 1000, reward: 2639.67
+Episode: 689, total numsteps: 391304, episode steps: 256, reward: 659.57
+Episode: 690, total numsteps: 392304, episode steps: 1000, reward: 2961.68
+----------------------------------------
+Test Episode: 690, reward: 3483.36
+----------------------------------------
+Episode: 691, total numsteps: 393304, episode steps: 1000, reward: 606.83
+Episode: 692, total numsteps: 394304, episode steps: 1000, reward: 3093.27
+Episode: 693, total numsteps: 394348, episode steps: 44, reward: 70.69
+Episode: 694, total numsteps: 395348, episode steps: 1000, reward: 3097.29
+Episode: 695, total numsteps: 396348, episode steps: 1000, reward: 2973.22
+Episode: 696, total numsteps: 397348, episode steps: 1000, reward: 2941.48
+Episode: 697, total numsteps: 398348, episode steps: 1000, reward: 2933.72
+Episode: 698, total numsteps: 399186, episode steps: 838, reward: 2602.17
+Episode: 699, total numsteps: 400186, episode steps: 1000, reward: 2723.84
+Episode: 700, total numsteps: 401186, episode steps: 1000, reward: 776.53
+----------------------------------------
+Test Episode: 700, reward: 1026.64
+----------------------------------------
+Episode: 701, total numsteps: 402186, episode steps: 1000, reward: 403.95
+Episode: 702, total numsteps: 403186, episode steps: 1000, reward: 678.52
+Episode: 703, total numsteps: 404186, episode steps: 1000, reward: 762.73
+Episode: 704, total numsteps: 405186, episode steps: 1000, reward: 664.68
+Episode: 705, total numsteps: 406186, episode steps: 1000, reward: 420.53
+Episode: 706, total numsteps: 407186, episode steps: 1000, reward: 736.85
+Episode: 707, total numsteps: 408186, episode steps: 1000, reward: 958.27
+Episode: 708, total numsteps: 409186, episode steps: 1000, reward: 482.42
+Episode: 709, total numsteps: 410186, episode steps: 1000, reward: 585.78
+Episode: 710, total numsteps: 411186, episode steps: 1000, reward: 748.08
+----------------------------------------
+Test Episode: 710, reward: 841.67
+----------------------------------------
+Episode: 711, total numsteps: 412186, episode steps: 1000, reward: 998.38
+Episode: 712, total numsteps: 413186, episode steps: 1000, reward: 1066.04
+Episode: 713, total numsteps: 414186, episode steps: 1000, reward: 556.39
+Episode: 714, total numsteps: 415186, episode steps: 1000, reward: 1029.28
+Episode: 715, total numsteps: 416186, episode steps: 1000, reward: 937.56
+Episode: 716, total numsteps: 417186, episode steps: 1000, reward: 1241.07
+Episode: 717, total numsteps: 418186, episode steps: 1000, reward: 1055.16
+Episode: 718, total numsteps: 419186, episode steps: 1000, reward: 1138.78
+Episode: 719, total numsteps: 420186, episode steps: 1000, reward: 674.13
+Episode: 720, total numsteps: 421186, episode steps: 1000, reward: 1131.01
+----------------------------------------
+Test Episode: 720, reward: 973.27
+----------------------------------------
+Episode: 721, total numsteps: 422186, episode steps: 1000, reward: 1262.82
+Episode: 722, total numsteps: 423186, episode steps: 1000, reward: 886.14
+Episode: 723, total numsteps: 424186, episode steps: 1000, reward: 683.74
+Episode: 724, total numsteps: 425186, episode steps: 1000, reward: 1106.3
+Episode: 725, total numsteps: 426186, episode steps: 1000, reward: 1164.16
+Episode: 726, total numsteps: 427186, episode steps: 1000, reward: 1048.14
+Episode: 727, total numsteps: 428186, episode steps: 1000, reward: 738.08
+Episode: 728, total numsteps: 429186, episode steps: 1000, reward: 856.68
+Episode: 729, total numsteps: 430186, episode steps: 1000, reward: 1255.52
+Episode: 730, total numsteps: 431186, episode steps: 1000, reward: 1011.63
+----------------------------------------
+Test Episode: 730, reward: 1686.23
+----------------------------------------
+Episode: 731, total numsteps: 432186, episode steps: 1000, reward: 1384.06
+Episode: 732, total numsteps: 433186, episode steps: 1000, reward: 1409.94
+Episode: 733, total numsteps: 434186, episode steps: 1000, reward: 1503.02
+Episode: 734, total numsteps: 435186, episode steps: 1000, reward: 148.75
+Episode: 735, total numsteps: 436186, episode steps: 1000, reward: 1253.05
+Episode: 736, total numsteps: 437186, episode steps: 1000, reward: 1120.82
+Episode: 737, total numsteps: 438186, episode steps: 1000, reward: 1542.81
+Episode: 738, total numsteps: 439186, episode steps: 1000, reward: 1310.21
+Episode: 739, total numsteps: 440186, episode steps: 1000, reward: 879.15
+Episode: 740, total numsteps: 441186, episode steps: 1000, reward: 993.2
+----------------------------------------
+Test Episode: 740, reward: 529.7
+----------------------------------------
+Episode: 741, total numsteps: 442186, episode steps: 1000, reward: 1459.36
+Episode: 742, total numsteps: 443186, episode steps: 1000, reward: 875.41
+Episode: 743, total numsteps: 444186, episode steps: 1000, reward: 672.33
+Episode: 744, total numsteps: 445186, episode steps: 1000, reward: 1241.48
+Episode: 745, total numsteps: 446186, episode steps: 1000, reward: 1499.73
+Episode: 746, total numsteps: 447186, episode steps: 1000, reward: 1133.6
+Episode: 747, total numsteps: 448186, episode steps: 1000, reward: 612.28
+Episode: 748, total numsteps: 449186, episode steps: 1000, reward: 1003.26
+Episode: 749, total numsteps: 450186, episode steps: 1000, reward: 963.24
+Episode: 750, total numsteps: 451186, episode steps: 1000, reward: 886.29
+----------------------------------------
+Test Episode: 750, reward: 1966.76
+----------------------------------------
+Episode: 751, total numsteps: 452186, episode steps: 1000, reward: 1465.04
+Episode: 752, total numsteps: 453186, episode steps: 1000, reward: 1141.3
+Episode: 753, total numsteps: 453209, episode steps: 23, reward: 39.01
+Episode: 754, total numsteps: 454209, episode steps: 1000, reward: 1134.31
+Episode: 755, total numsteps: 455209, episode steps: 1000, reward: 1489.32
+Episode: 756, total numsteps: 456209, episode steps: 1000, reward: 936.69
+Episode: 757, total numsteps: 457209, episode steps: 1000, reward: 1343.49
+Episode: 758, total numsteps: 458209, episode steps: 1000, reward: 737.71
+Episode: 759, total numsteps: 459209, episode steps: 1000, reward: 1443.77
+Episode: 760, total numsteps: 459527, episode steps: 318, reward: 446.87
+----------------------------------------
+Test Episode: 760, reward: 1252.03
+----------------------------------------
+Episode: 761, total numsteps: 460526, episode steps: 999, reward: 1027.6
+Episode: 762, total numsteps: 461526, episode steps: 1000, reward: 1147.8
+Episode: 763, total numsteps: 462526, episode steps: 1000, reward: 1204.15
+Episode: 764, total numsteps: 463526, episode steps: 1000, reward: 1056.19
+Episode: 765, total numsteps: 464526, episode steps: 1000, reward: 1618.62
+Episode: 766, total numsteps: 465526, episode steps: 1000, reward: 1599.16
+Episode: 767, total numsteps: 466526, episode steps: 1000, reward: 1450.51
+Episode: 768, total numsteps: 467526, episode steps: 1000, reward: 1287.31
+Episode: 769, total numsteps: 468526, episode steps: 1000, reward: 1162.33
+Episode: 770, total numsteps: 469526, episode steps: 1000, reward: 1384.84
+----------------------------------------
+Test Episode: 770, reward: 1402.66
+----------------------------------------
+Episode: 771, total numsteps: 470526, episode steps: 1000, reward: 1454.98
+Episode: 772, total numsteps: 471526, episode steps: 1000, reward: 1289.32
+Episode: 773, total numsteps: 472526, episode steps: 1000, reward: 545.0
+Episode: 774, total numsteps: 473526, episode steps: 1000, reward: 1424.04
+Episode: 775, total numsteps: 474526, episode steps: 1000, reward: 1035.6
+Episode: 776, total numsteps: 475526, episode steps: 1000, reward: 312.21
+Episode: 777, total numsteps: 476526, episode steps: 1000, reward: 1079.5
+Episode: 778, total numsteps: 477526, episode steps: 1000, reward: 1715.35
+Episode: 779, total numsteps: 477559, episode steps: 33, reward: 84.72
+Episode: 780, total numsteps: 478559, episode steps: 1000, reward: 1481.72
+----------------------------------------
+Test Episode: 780, reward: 2182.84
+----------------------------------------
+Episode: 781, total numsteps: 478700, episode steps: 141, reward: 209.33
+Episode: 782, total numsteps: 479700, episode steps: 1000, reward: 1098.83
+Episode: 783, total numsteps: 480700, episode steps: 1000, reward: 602.58
+Episode: 784, total numsteps: 481700, episode steps: 1000, reward: 936.73
+Episode: 785, total numsteps: 482700, episode steps: 1000, reward: 1097.61
+Episode: 786, total numsteps: 483700, episode steps: 1000, reward: 600.59
+Episode: 787, total numsteps: 484700, episode steps: 1000, reward: 1297.1
+Episode: 788, total numsteps: 485700, episode steps: 1000, reward: 1845.05
+Episode: 789, total numsteps: 486700, episode steps: 1000, reward: 1727.91
+Episode: 790, total numsteps: 487700, episode steps: 1000, reward: 1686.83
+----------------------------------------
+Test Episode: 790, reward: 1074.83
+----------------------------------------
+Episode: 791, total numsteps: 488700, episode steps: 1000, reward: 1122.31
+Episode: 792, total numsteps: 489700, episode steps: 1000, reward: 1020.25
+Episode: 793, total numsteps: 490700, episode steps: 1000, reward: 845.21
+Episode: 794, total numsteps: 491700, episode steps: 1000, reward: 1488.99
+Episode: 795, total numsteps: 492700, episode steps: 1000, reward: 948.44
+Episode: 796, total numsteps: 493700, episode steps: 1000, reward: 1384.45
+Episode: 797, total numsteps: 494700, episode steps: 1000, reward: 1793.78
+Episode: 798, total numsteps: 495700, episode steps: 1000, reward: 1580.73
+Episode: 799, total numsteps: 496700, episode steps: 1000, reward: 1374.58
+Episode: 800, total numsteps: 497700, episode steps: 1000, reward: 1565.57
+----------------------------------------
+Test Episode: 800, reward: 2298.4
+----------------------------------------
+Episode: 801, total numsteps: 498700, episode steps: 1000, reward: 1293.73
+Episode: 802, total numsteps: 499700, episode steps: 1000, reward: 1469.0
+Episode: 803, total numsteps: 500700, episode steps: 1000, reward: 1117.1
+Episode: 804, total numsteps: 501700, episode steps: 1000, reward: 1588.85
+Episode: 805, total numsteps: 502700, episode steps: 1000, reward: 1676.12
+Episode: 806, total numsteps: 503700, episode steps: 1000, reward: 1198.98
+Episode: 807, total numsteps: 504700, episode steps: 1000, reward: 1481.76
+Episode: 808, total numsteps: 505700, episode steps: 1000, reward: 1140.39
+Episode: 809, total numsteps: 506700, episode steps: 1000, reward: 1277.04
+Episode: 810, total numsteps: 507700, episode steps: 1000, reward: 1406.42
+----------------------------------------
+Test Episode: 810, reward: 1128.76
+----------------------------------------
+Episode: 811, total numsteps: 508700, episode steps: 1000, reward: 1255.04
+Episode: 812, total numsteps: 509700, episode steps: 1000, reward: 1372.27
+Episode: 813, total numsteps: 510700, episode steps: 1000, reward: 1405.82
+Episode: 814, total numsteps: 511700, episode steps: 1000, reward: 1317.16
+Episode: 815, total numsteps: 512700, episode steps: 1000, reward: 1365.18
+Episode: 816, total numsteps: 512819, episode steps: 119, reward: 222.45
+Episode: 817, total numsteps: 513819, episode steps: 1000, reward: 1341.36
+Episode: 818, total numsteps: 514819, episode steps: 1000, reward: 1434.24
+Episode: 819, total numsteps: 515819, episode steps: 1000, reward: 1047.69
+Episode: 820, total numsteps: 516819, episode steps: 1000, reward: 1316.05
+----------------------------------------
+Test Episode: 820, reward: 1178.56
+----------------------------------------
+Episode: 821, total numsteps: 517819, episode steps: 1000, reward: 1593.11
+Episode: 822, total numsteps: 518819, episode steps: 1000, reward: 1077.14
+Episode: 823, total numsteps: 519819, episode steps: 1000, reward: 1560.23
+Episode: 824, total numsteps: 520819, episode steps: 1000, reward: 1508.55
+Episode: 825, total numsteps: 521819, episode steps: 1000, reward: 1229.33
+Episode: 826, total numsteps: 522819, episode steps: 1000, reward: 1568.55
+Episode: 827, total numsteps: 523819, episode steps: 1000, reward: 1659.85
+Episode: 828, total numsteps: 524819, episode steps: 1000, reward: 1509.16
+Episode: 829, total numsteps: 525819, episode steps: 1000, reward: 1429.75
+Episode: 830, total numsteps: 526819, episode steps: 1000, reward: 1619.93
+----------------------------------------
+Test Episode: 830, reward: 1340.94
+----------------------------------------
+Episode: 831, total numsteps: 527819, episode steps: 1000, reward: 1185.95
+Episode: 832, total numsteps: 528819, episode steps: 1000, reward: 1248.47
+Episode: 833, total numsteps: 529819, episode steps: 1000, reward: 1426.31
+Episode: 834, total numsteps: 530819, episode steps: 1000, reward: 565.17
+Episode: 835, total numsteps: 531819, episode steps: 1000, reward: 1370.56
+Episode: 836, total numsteps: 532819, episode steps: 1000, reward: 1420.98
+Episode: 837, total numsteps: 533819, episode steps: 1000, reward: 1336.67
+Episode: 838, total numsteps: 534819, episode steps: 1000, reward: 1776.91
+Episode: 839, total numsteps: 535819, episode steps: 1000, reward: 1195.96
+Episode: 840, total numsteps: 536819, episode steps: 1000, reward: 1497.72
+----------------------------------------
+Test Episode: 840, reward: 1759.8
+----------------------------------------
+Episode: 841, total numsteps: 537819, episode steps: 1000, reward: 1562.14
+Episode: 842, total numsteps: 538819, episode steps: 1000, reward: 1356.19
+Episode: 843, total numsteps: 539819, episode steps: 1000, reward: 277.54
+Episode: 844, total numsteps: 540819, episode steps: 1000, reward: 1704.18
+Episode: 845, total numsteps: 541819, episode steps: 1000, reward: 1376.83
+Episode: 846, total numsteps: 542819, episode steps: 1000, reward: 1605.06
+Episode: 847, total numsteps: 543819, episode steps: 1000, reward: 1458.54
+Episode: 848, total numsteps: 544819, episode steps: 1000, reward: 1443.61
+Episode: 849, total numsteps: 545819, episode steps: 1000, reward: 1658.25
+Episode: 850, total numsteps: 546819, episode steps: 1000, reward: 1736.28
+----------------------------------------
+Test Episode: 850, reward: 1467.12
+----------------------------------------
+Episode: 851, total numsteps: 547819, episode steps: 1000, reward: 1551.27
+Episode: 852, total numsteps: 548819, episode steps: 1000, reward: 1520.61
+Episode: 853, total numsteps: 549819, episode steps: 1000, reward: 1689.79
+Episode: 854, total numsteps: 550819, episode steps: 1000, reward: 1386.3
+Episode: 855, total numsteps: 551819, episode steps: 1000, reward: 1537.14
+Episode: 856, total numsteps: 552819, episode steps: 1000, reward: 498.49
+Episode: 857, total numsteps: 553819, episode steps: 1000, reward: 1363.46
+Episode: 858, total numsteps: 554819, episode steps: 1000, reward: 1420.6
+Episode: 859, total numsteps: 555819, episode steps: 1000, reward: 1401.01
+Episode: 860, total numsteps: 556819, episode steps: 1000, reward: 1680.6
+----------------------------------------
+Test Episode: 860, reward: 1519.05
+----------------------------------------
+Episode: 861, total numsteps: 557819, episode steps: 1000, reward: 1586.58
+Episode: 862, total numsteps: 558819, episode steps: 1000, reward: 1424.54
+Episode: 863, total numsteps: 559819, episode steps: 1000, reward: 1427.62
+Episode: 864, total numsteps: 560819, episode steps: 1000, reward: 1611.4
+Episode: 865, total numsteps: 561819, episode steps: 1000, reward: 1555.42
+Episode: 866, total numsteps: 562819, episode steps: 1000, reward: 1531.41
+Episode: 867, total numsteps: 563819, episode steps: 1000, reward: 1585.81
+Episode: 868, total numsteps: 564819, episode steps: 1000, reward: 1731.42
+Episode: 869, total numsteps: 565819, episode steps: 1000, reward: 1787.25
+Episode: 870, total numsteps: 566819, episode steps: 1000, reward: 1593.11
+----------------------------------------
+Test Episode: 870, reward: 1493.85
+----------------------------------------
+Episode: 871, total numsteps: 567819, episode steps: 1000, reward: 1476.94
+Episode: 872, total numsteps: 568819, episode steps: 1000, reward: 1721.22
+Episode: 873, total numsteps: 569819, episode steps: 1000, reward: 1653.51
+Episode: 874, total numsteps: 570819, episode steps: 1000, reward: 1626.33
+Episode: 875, total numsteps: 571819, episode steps: 1000, reward: 1588.18
+Episode: 876, total numsteps: 572819, episode steps: 1000, reward: 1714.31
+Episode: 877, total numsteps: 573819, episode steps: 1000, reward: 1375.49
+Episode: 878, total numsteps: 574819, episode steps: 1000, reward: 1877.2
+Episode: 879, total numsteps: 575819, episode steps: 1000, reward: 1609.64
+Episode: 880, total numsteps: 576819, episode steps: 1000, reward: 1780.09
+----------------------------------------
+Test Episode: 880, reward: 1812.24
+----------------------------------------
+Episode: 881, total numsteps: 577819, episode steps: 1000, reward: 1712.96
+Episode: 882, total numsteps: 578819, episode steps: 1000, reward: 1558.11
+Episode: 883, total numsteps: 579819, episode steps: 1000, reward: 1564.78
+Episode: 884, total numsteps: 580406, episode steps: 587, reward: 977.8
+Episode: 885, total numsteps: 581406, episode steps: 1000, reward: 1588.02
+Episode: 886, total numsteps: 582406, episode steps: 1000, reward: 1928.04
+Episode: 887, total numsteps: 583406, episode steps: 1000, reward: 1428.66
+Episode: 888, total numsteps: 584406, episode steps: 1000, reward: 1788.25
+Episode: 889, total numsteps: 585406, episode steps: 1000, reward: 1749.11
+Episode: 890, total numsteps: 586406, episode steps: 1000, reward: 1601.61
+----------------------------------------
+Test Episode: 890, reward: 2124.16
+----------------------------------------
+Episode: 891, total numsteps: 587406, episode steps: 1000, reward: 1474.27
+Episode: 892, total numsteps: 588406, episode steps: 1000, reward: 1715.67
+Episode: 893, total numsteps: 589406, episode steps: 1000, reward: 1944.56
+Episode: 894, total numsteps: 590406, episode steps: 1000, reward: 1695.03
+Episode: 895, total numsteps: 591406, episode steps: 1000, reward: 1390.31
+Episode: 896, total numsteps: 592406, episode steps: 1000, reward: 1603.41
+Episode: 897, total numsteps: 593406, episode steps: 1000, reward: 1619.13
+Episode: 898, total numsteps: 594406, episode steps: 1000, reward: 1643.54
+Episode: 899, total numsteps: 594424, episode steps: 18, reward: 22.59
+Episode: 900, total numsteps: 595424, episode steps: 1000, reward: 1796.74
+----------------------------------------
+Test Episode: 900, reward: 2228.03
+----------------------------------------
+Episode: 901, total numsteps: 596424, episode steps: 1000, reward: 1820.99
+Episode: 902, total numsteps: 597424, episode steps: 1000, reward: 1767.0
+Episode: 903, total numsteps: 598424, episode steps: 1000, reward: 1676.39
+Episode: 904, total numsteps: 599424, episode steps: 1000, reward: 1795.34
+Episode: 905, total numsteps: 600424, episode steps: 1000, reward: 1760.35
+Episode: 906, total numsteps: 601424, episode steps: 1000, reward: 1556.4
+Episode: 907, total numsteps: 602424, episode steps: 1000, reward: 1850.7
+Episode: 908, total numsteps: 603424, episode steps: 1000, reward: 1659.22
+Episode: 909, total numsteps: 604424, episode steps: 1000, reward: 1891.12
+Episode: 910, total numsteps: 605424, episode steps: 1000, reward: 1637.59
+----------------------------------------
+Test Episode: 910, reward: 2397.19
+----------------------------------------
+Episode: 911, total numsteps: 606424, episode steps: 1000, reward: 1616.58
+Episode: 912, total numsteps: 607424, episode steps: 1000, reward: 1564.61
+Episode: 913, total numsteps: 607438, episode steps: 14, reward: 2.81
+Episode: 914, total numsteps: 608438, episode steps: 1000, reward: 2095.37
+Episode: 915, total numsteps: 609438, episode steps: 1000, reward: 1809.89
+Episode: 916, total numsteps: 610438, episode steps: 1000, reward: 1858.02
+Episode: 917, total numsteps: 611438, episode steps: 1000, reward: 1678.28
+Episode: 918, total numsteps: 612438, episode steps: 1000, reward: 1881.81
+Episode: 919, total numsteps: 613438, episode steps: 1000, reward: 1671.48
+Episode: 920, total numsteps: 614438, episode steps: 1000, reward: 1787.89
+----------------------------------------
+Test Episode: 920, reward: 2274.41
+----------------------------------------
+Episode: 921, total numsteps: 615438, episode steps: 1000, reward: 1908.97
+Episode: 922, total numsteps: 616438, episode steps: 1000, reward: 1619.07
+Episode: 923, total numsteps: 617438, episode steps: 1000, reward: 1601.9
+Episode: 924, total numsteps: 618438, episode steps: 1000, reward: 1712.96
+Episode: 925, total numsteps: 619438, episode steps: 1000, reward: 1835.7
+Episode: 926, total numsteps: 620438, episode steps: 1000, reward: 1889.18
+Episode: 927, total numsteps: 621438, episode steps: 1000, reward: 1881.14
+Episode: 928, total numsteps: 622438, episode steps: 1000, reward: 1793.51
+Episode: 929, total numsteps: 623438, episode steps: 1000, reward: 2122.21
+Episode: 930, total numsteps: 624438, episode steps: 1000, reward: 1711.75
+----------------------------------------
+Test Episode: 930, reward: 2242.77
+----------------------------------------
+Episode: 931, total numsteps: 625438, episode steps: 1000, reward: 1891.56
+Episode: 932, total numsteps: 626438, episode steps: 1000, reward: 1918.27
+Episode: 933, total numsteps: 627438, episode steps: 1000, reward: 2001.22
+Episode: 934, total numsteps: 628438, episode steps: 1000, reward: 1732.7
+Episode: 935, total numsteps: 629438, episode steps: 1000, reward: 1696.52
+Episode: 936, total numsteps: 630438, episode steps: 1000, reward: 1909.36
+Episode: 937, total numsteps: 631438, episode steps: 1000, reward: 1855.5
+Episode: 938, total numsteps: 632438, episode steps: 1000, reward: 1820.29
+Episode: 939, total numsteps: 633438, episode steps: 1000, reward: 1864.75
+Episode: 940, total numsteps: 634438, episode steps: 1000, reward: 1824.78
+----------------------------------------
+Test Episode: 940, reward: 2262.57
+----------------------------------------
+Episode: 941, total numsteps: 635438, episode steps: 1000, reward: 2110.6
+Episode: 942, total numsteps: 636438, episode steps: 1000, reward: 1866.96
+Episode: 943, total numsteps: 637438, episode steps: 1000, reward: 1764.58
+Episode: 944, total numsteps: 638438, episode steps: 1000, reward: 2092.48
+Episode: 945, total numsteps: 639438, episode steps: 1000, reward: 1745.29
+Episode: 946, total numsteps: 640438, episode steps: 1000, reward: 1747.97
+Episode: 947, total numsteps: 641438, episode steps: 1000, reward: 877.78
+Episode: 948, total numsteps: 642438, episode steps: 1000, reward: 1760.36
+Episode: 949, total numsteps: 643438, episode steps: 1000, reward: 1684.02
+Episode: 950, total numsteps: 644438, episode steps: 1000, reward: 1895.88
+----------------------------------------
+Test Episode: 950, reward: 2303.88
+----------------------------------------
+Episode: 951, total numsteps: 645438, episode steps: 1000, reward: 2004.3
+Episode: 952, total numsteps: 646438, episode steps: 1000, reward: 1828.32
+Episode: 953, total numsteps: 647438, episode steps: 1000, reward: 1778.08
+Episode: 954, total numsteps: 648438, episode steps: 1000, reward: 2037.03
+Episode: 955, total numsteps: 649438, episode steps: 1000, reward: 1769.0
+Episode: 956, total numsteps: 650438, episode steps: 1000, reward: 1974.14
+Episode: 957, total numsteps: 651438, episode steps: 1000, reward: 1905.7
+Episode: 958, total numsteps: 651455, episode steps: 17, reward: 19.12
+Episode: 959, total numsteps: 652455, episode steps: 1000, reward: 1949.49
+Episode: 960, total numsteps: 653455, episode steps: 1000, reward: 2009.92
+----------------------------------------
+Test Episode: 960, reward: 2571.29
+----------------------------------------
+Episode: 961, total numsteps: 654455, episode steps: 1000, reward: 1832.94
+Episode: 962, total numsteps: 655455, episode steps: 1000, reward: 1880.02
+Episode: 963, total numsteps: 655472, episode steps: 17, reward: 41.4
+Episode: 964, total numsteps: 656472, episode steps: 1000, reward: 1918.46
+Episode: 965, total numsteps: 657472, episode steps: 1000, reward: 1931.75
+Episode: 966, total numsteps: 658472, episode steps: 1000, reward: 1811.51
+Episode: 967, total numsteps: 659472, episode steps: 1000, reward: 1787.62
+Episode: 968, total numsteps: 660472, episode steps: 1000, reward: 339.76
+Episode: 969, total numsteps: 661472, episode steps: 1000, reward: 1781.53
+Episode: 970, total numsteps: 662472, episode steps: 1000, reward: 1832.74
+----------------------------------------
+Test Episode: 970, reward: 2280.36
+----------------------------------------
+Episode: 971, total numsteps: 663472, episode steps: 1000, reward: 1747.45
+Episode: 972, total numsteps: 664472, episode steps: 1000, reward: 1906.27
+Episode: 973, total numsteps: 665472, episode steps: 1000, reward: 1827.39
+Episode: 974, total numsteps: 666472, episode steps: 1000, reward: 1990.56
+Episode: 975, total numsteps: 666568, episode steps: 96, reward: 196.67
+Episode: 976, total numsteps: 667568, episode steps: 1000, reward: 2062.3
+Episode: 977, total numsteps: 668568, episode steps: 1000, reward: 2041.56
+Episode: 978, total numsteps: 669568, episode steps: 1000, reward: 1884.47
+Episode: 979, total numsteps: 670568, episode steps: 1000, reward: 1947.54
+Episode: 980, total numsteps: 671568, episode steps: 1000, reward: 1817.07
+----------------------------------------
+Test Episode: 980, reward: 2346.13
+----------------------------------------
+Episode: 981, total numsteps: 672568, episode steps: 1000, reward: 1776.94
+Episode: 982, total numsteps: 673568, episode steps: 1000, reward: 1824.62
+Episode: 983, total numsteps: 674568, episode steps: 1000, reward: 1856.98
+Episode: 984, total numsteps: 675568, episode steps: 1000, reward: 534.46
+Episode: 985, total numsteps: 676568, episode steps: 1000, reward: 1975.36
+Episode: 986, total numsteps: 677568, episode steps: 1000, reward: 1974.37
+Episode: 987, total numsteps: 678568, episode steps: 1000, reward: 1847.24
+Episode: 988, total numsteps: 678684, episode steps: 116, reward: 272.9
+Episode: 989, total numsteps: 679684, episode steps: 1000, reward: 1807.76
+Episode: 990, total numsteps: 680684, episode steps: 1000, reward: 2079.88
+----------------------------------------
+Test Episode: 990, reward: 2262.53
+----------------------------------------
+Episode: 991, total numsteps: 681684, episode steps: 1000, reward: 1826.27
+Episode: 992, total numsteps: 682684, episode steps: 1000, reward: 1876.65
+Episode: 993, total numsteps: 683684, episode steps: 1000, reward: 1848.09
+Episode: 994, total numsteps: 684684, episode steps: 1000, reward: 1855.13
+Episode: 995, total numsteps: 685684, episode steps: 1000, reward: 1908.63
+Episode: 996, total numsteps: 686684, episode steps: 1000, reward: 1886.68
+Episode: 997, total numsteps: 686723, episode steps: 39, reward: 66.25
+Episode: 998, total numsteps: 687723, episode steps: 1000, reward: 2176.12
+Episode: 999, total numsteps: 688723, episode steps: 1000, reward: 2157.16
+Episode: 1000, total numsteps: 689723, episode steps: 1000, reward: 2196.24
+----------------------------------------
+Test Episode: 1000, reward: 2307.32
+----------------------------------------
+Episode: 1001, total numsteps: 690723, episode steps: 1000, reward: 1838.15
+Episode: 1002, total numsteps: 691723, episode steps: 1000, reward: 1960.54
+Episode: 1003, total numsteps: 691734, episode steps: 11, reward: 16.16
+Episode: 1004, total numsteps: 692734, episode steps: 1000, reward: 1861.17
+Episode: 1005, total numsteps: 693734, episode steps: 1000, reward: 1761.49
+Episode: 1006, total numsteps: 694734, episode steps: 1000, reward: 1882.12
+Episode: 1007, total numsteps: 695734, episode steps: 1000, reward: 1869.92
+Episode: 1008, total numsteps: 696734, episode steps: 1000, reward: 1830.14
+Episode: 1009, total numsteps: 697734, episode steps: 1000, reward: 1902.99
+Episode: 1010, total numsteps: 698734, episode steps: 1000, reward: 1857.51
+----------------------------------------
+Test Episode: 1010, reward: 558.93
+----------------------------------------
+Episode: 1011, total numsteps: 699734, episode steps: 1000, reward: 1912.76
+Episode: 1012, total numsteps: 700734, episode steps: 1000, reward: 2012.76
+Episode: 1013, total numsteps: 701734, episode steps: 1000, reward: 1713.95
+Episode: 1014, total numsteps: 702734, episode steps: 1000, reward: 1932.14
+Episode: 1015, total numsteps: 703734, episode steps: 1000, reward: 1987.72
+Episode: 1016, total numsteps: 704734, episode steps: 1000, reward: 1974.06
+Episode: 1017, total numsteps: 705734, episode steps: 1000, reward: 2041.51
+Episode: 1018, total numsteps: 706734, episode steps: 1000, reward: 1912.64
+Episode: 1019, total numsteps: 707734, episode steps: 1000, reward: 369.92
+Episode: 1020, total numsteps: 708734, episode steps: 1000, reward: 2042.71
+----------------------------------------
+Test Episode: 1020, reward: 2053.92
+----------------------------------------
+Episode: 1021, total numsteps: 709734, episode steps: 1000, reward: 1963.14
+Episode: 1022, total numsteps: 710734, episode steps: 1000, reward: 1927.73
+Episode: 1023, total numsteps: 711734, episode steps: 1000, reward: 2097.97
+Episode: 1024, total numsteps: 712734, episode steps: 1000, reward: 1865.03
+Episode: 1025, total numsteps: 713734, episode steps: 1000, reward: 2067.09
+Episode: 1026, total numsteps: 714734, episode steps: 1000, reward: 1931.02
+Episode: 1027, total numsteps: 715734, episode steps: 1000, reward: 1842.14
+Episode: 1028, total numsteps: 716734, episode steps: 1000, reward: 1912.57
+Episode: 1029, total numsteps: 717734, episode steps: 1000, reward: 1794.4
+Episode: 1030, total numsteps: 718734, episode steps: 1000, reward: 1864.62
+----------------------------------------
+Test Episode: 1030, reward: 2290.29
+----------------------------------------
+Episode: 1031, total numsteps: 719734, episode steps: 1000, reward: 1905.4
+Episode: 1032, total numsteps: 720734, episode steps: 1000, reward: 1994.28
+Episode: 1033, total numsteps: 721734, episode steps: 1000, reward: 1957.98
+Episode: 1034, total numsteps: 722734, episode steps: 1000, reward: 2002.52
+Episode: 1035, total numsteps: 723734, episode steps: 1000, reward: 2041.09
+Episode: 1036, total numsteps: 724734, episode steps: 1000, reward: 2110.76
+Episode: 1037, total numsteps: 725734, episode steps: 1000, reward: 1909.24
+Episode: 1038, total numsteps: 726734, episode steps: 1000, reward: 1976.24
+Episode: 1039, total numsteps: 726746, episode steps: 12, reward: 25.53
+Episode: 1040, total numsteps: 727746, episode steps: 1000, reward: 2070.99
+----------------------------------------
+Test Episode: 1040, reward: 2368.42
+----------------------------------------
+Episode: 1041, total numsteps: 728746, episode steps: 1000, reward: 1935.92
+Episode: 1042, total numsteps: 729746, episode steps: 1000, reward: 2064.44
+Episode: 1043, total numsteps: 730746, episode steps: 1000, reward: 1932.28
+Episode: 1044, total numsteps: 731746, episode steps: 1000, reward: 1905.42
+Episode: 1045, total numsteps: 732746, episode steps: 1000, reward: 2173.1
+Episode: 1046, total numsteps: 733746, episode steps: 1000, reward: 1978.76
+Episode: 1047, total numsteps: 734746, episode steps: 1000, reward: 1921.75
+Episode: 1048, total numsteps: 735746, episode steps: 1000, reward: 1875.26
+Episode: 1049, total numsteps: 736746, episode steps: 1000, reward: 1963.16
+Episode: 1050, total numsteps: 737746, episode steps: 1000, reward: 1981.2
+----------------------------------------
+Test Episode: 1050, reward: 2362.9
+----------------------------------------
+Episode: 1051, total numsteps: 738746, episode steps: 1000, reward: 2011.03
+Episode: 1052, total numsteps: 739746, episode steps: 1000, reward: 1885.76
+Episode: 1053, total numsteps: 740746, episode steps: 1000, reward: 2025.91
+Episode: 1054, total numsteps: 741746, episode steps: 1000, reward: 2017.58
+Episode: 1055, total numsteps: 742746, episode steps: 1000, reward: 1829.22
+Episode: 1056, total numsteps: 743746, episode steps: 1000, reward: 1904.1
+Episode: 1057, total numsteps: 744746, episode steps: 1000, reward: 2039.67
+Episode: 1058, total numsteps: 745746, episode steps: 1000, reward: 1911.25
+Episode: 1059, total numsteps: 746746, episode steps: 1000, reward: 1898.2
+Episode: 1060, total numsteps: 747746, episode steps: 1000, reward: 1964.21
+----------------------------------------
+Test Episode: 1060, reward: 2240.06
+----------------------------------------
+Episode: 1061, total numsteps: 748746, episode steps: 1000, reward: 1840.28
+Episode: 1062, total numsteps: 749746, episode steps: 1000, reward: 2011.5
+Episode: 1063, total numsteps: 750746, episode steps: 1000, reward: 1977.68
+Episode: 1064, total numsteps: 751746, episode steps: 1000, reward: 1987.19
+Episode: 1065, total numsteps: 752746, episode steps: 1000, reward: 1755.58
+Episode: 1066, total numsteps: 753746, episode steps: 1000, reward: 2054.12
+Episode: 1067, total numsteps: 754746, episode steps: 1000, reward: 1999.02
+Episode: 1068, total numsteps: 755746, episode steps: 1000, reward: 2087.05
+Episode: 1069, total numsteps: 756746, episode steps: 1000, reward: 1803.14
+Episode: 1070, total numsteps: 757746, episode steps: 1000, reward: 1858.65
+----------------------------------------
+Test Episode: 1070, reward: 2621.31
+----------------------------------------
+Episode: 1071, total numsteps: 758171, episode steps: 425, reward: 885.39
+Episode: 1072, total numsteps: 759171, episode steps: 1000, reward: 1884.72
+Episode: 1073, total numsteps: 760171, episode steps: 1000, reward: 1999.52
+Episode: 1074, total numsteps: 761171, episode steps: 1000, reward: 2058.2
+Episode: 1075, total numsteps: 762171, episode steps: 1000, reward: 1995.52
+Episode: 1076, total numsteps: 763171, episode steps: 1000, reward: 1911.22
+Episode: 1077, total numsteps: 764171, episode steps: 1000, reward: 2009.79
+Episode: 1078, total numsteps: 765171, episode steps: 1000, reward: 2052.4
+Episode: 1079, total numsteps: 766171, episode steps: 1000, reward: 1984.24
+Episode: 1080, total numsteps: 767171, episode steps: 1000, reward: 1914.75
+----------------------------------------
+Test Episode: 1080, reward: 2340.04
+----------------------------------------
+Episode: 1081, total numsteps: 768171, episode steps: 1000, reward: 1950.69
+Episode: 1082, total numsteps: 769171, episode steps: 1000, reward: 1984.92
+Episode: 1083, total numsteps: 770171, episode steps: 1000, reward: 1988.61
+Episode: 1084, total numsteps: 771171, episode steps: 1000, reward: 1865.71
+Episode: 1085, total numsteps: 772171, episode steps: 1000, reward: 1834.41
+Episode: 1086, total numsteps: 773171, episode steps: 1000, reward: 2054.59
+Episode: 1087, total numsteps: 774171, episode steps: 1000, reward: 370.96
+Episode: 1088, total numsteps: 775171, episode steps: 1000, reward: 1881.36
+Episode: 1089, total numsteps: 776171, episode steps: 1000, reward: 1931.28
+Episode: 1090, total numsteps: 777171, episode steps: 1000, reward: 1906.75
+----------------------------------------
+Test Episode: 1090, reward: 2117.9
+----------------------------------------
+Episode: 1091, total numsteps: 778171, episode steps: 1000, reward: 1980.8
+Episode: 1092, total numsteps: 779171, episode steps: 1000, reward: 1987.05
+Episode: 1093, total numsteps: 780171, episode steps: 1000, reward: 1858.01
+Episode: 1094, total numsteps: 781171, episode steps: 1000, reward: 2101.02
+Episode: 1095, total numsteps: 782171, episode steps: 1000, reward: 2165.97
+Episode: 1096, total numsteps: 783171, episode steps: 1000, reward: 1926.01
+Episode: 1097, total numsteps: 784171, episode steps: 1000, reward: 2120.9
+Episode: 1098, total numsteps: 785171, episode steps: 1000, reward: 1971.13
+Episode: 1099, total numsteps: 786171, episode steps: 1000, reward: 1954.0
+Episode: 1100, total numsteps: 787171, episode steps: 1000, reward: 2030.64
+----------------------------------------
+Test Episode: 1100, reward: 2324.19
+----------------------------------------
+Episode: 1101, total numsteps: 788171, episode steps: 1000, reward: 1803.18
+Episode: 1102, total numsteps: 788396, episode steps: 225, reward: 532.67
+Episode: 1103, total numsteps: 789396, episode steps: 1000, reward: 1999.66
+Episode: 1104, total numsteps: 789486, episode steps: 90, reward: 248.54
+Episode: 1105, total numsteps: 790486, episode steps: 1000, reward: 1903.42
+Episode: 1106, total numsteps: 791486, episode steps: 1000, reward: 2120.09
+Episode: 1107, total numsteps: 792486, episode steps: 1000, reward: 2012.55
+Episode: 1108, total numsteps: 793486, episode steps: 1000, reward: 1938.27
+Episode: 1109, total numsteps: 794486, episode steps: 1000, reward: 1974.7
+Episode: 1110, total numsteps: 795486, episode steps: 1000, reward: 1906.11
+----------------------------------------
+Test Episode: 1110, reward: 2185.57
+----------------------------------------
+Episode: 1111, total numsteps: 796486, episode steps: 1000, reward: 2128.73
+Episode: 1112, total numsteps: 797486, episode steps: 1000, reward: 1971.6
+Episode: 1113, total numsteps: 798486, episode steps: 1000, reward: 1800.47
+Episode: 1114, total numsteps: 799486, episode steps: 1000, reward: 1868.42
+Episode: 1115, total numsteps: 800486, episode steps: 1000, reward: 1974.79
+Episode: 1116, total numsteps: 801486, episode steps: 1000, reward: 1845.98
+Episode: 1117, total numsteps: 802486, episode steps: 1000, reward: 1984.53
+Episode: 1118, total numsteps: 803486, episode steps: 1000, reward: 2099.13
+Episode: 1119, total numsteps: 804486, episode steps: 1000, reward: 362.24
+Episode: 1120, total numsteps: 805486, episode steps: 1000, reward: 1779.71
+----------------------------------------
+Test Episode: 1120, reward: 2517.83
+----------------------------------------
+Episode: 1121, total numsteps: 806486, episode steps: 1000, reward: 2167.43
+Episode: 1122, total numsteps: 807486, episode steps: 1000, reward: 1994.65
+Episode: 1123, total numsteps: 808486, episode steps: 1000, reward: 2151.46
+Episode: 1124, total numsteps: 809486, episode steps: 1000, reward: 2038.97
+Episode: 1125, total numsteps: 810486, episode steps: 1000, reward: 2117.04
+Episode: 1126, total numsteps: 811021, episode steps: 535, reward: 1054.84
+Episode: 1127, total numsteps: 812021, episode steps: 1000, reward: 2032.28
+Episode: 1128, total numsteps: 813021, episode steps: 1000, reward: 2114.29
+Episode: 1129, total numsteps: 814021, episode steps: 1000, reward: 1989.71
+Episode: 1130, total numsteps: 815021, episode steps: 1000, reward: 2115.03
+----------------------------------------
+Test Episode: 1130, reward: 2377.02
+----------------------------------------
+Episode: 1131, total numsteps: 816021, episode steps: 1000, reward: 2044.18
+Episode: 1132, total numsteps: 817021, episode steps: 1000, reward: 1905.31
+Episode: 1133, total numsteps: 818021, episode steps: 1000, reward: 1872.56
+Episode: 1134, total numsteps: 819021, episode steps: 1000, reward: 2181.88
+Episode: 1135, total numsteps: 820021, episode steps: 1000, reward: 1885.13
+Episode: 1136, total numsteps: 821021, episode steps: 1000, reward: 2017.32
+Episode: 1137, total numsteps: 822021, episode steps: 1000, reward: 2016.41
+Episode: 1138, total numsteps: 823021, episode steps: 1000, reward: 1919.66
+Episode: 1139, total numsteps: 824021, episode steps: 1000, reward: 2073.17
+Episode: 1140, total numsteps: 825021, episode steps: 1000, reward: 1928.34
+----------------------------------------
+Test Episode: 1140, reward: 2167.48
+----------------------------------------
+Episode: 1141, total numsteps: 826021, episode steps: 1000, reward: 2092.64
+Episode: 1142, total numsteps: 827021, episode steps: 1000, reward: 2111.65
+Episode: 1143, total numsteps: 828021, episode steps: 1000, reward: 372.69
+Episode: 1144, total numsteps: 829021, episode steps: 1000, reward: 1998.25
+Episode: 1145, total numsteps: 830021, episode steps: 1000, reward: 1999.84
+Episode: 1146, total numsteps: 831021, episode steps: 1000, reward: 2113.27
+Episode: 1147, total numsteps: 832021, episode steps: 1000, reward: 1874.52
+Episode: 1148, total numsteps: 833021, episode steps: 1000, reward: 2007.63
+Episode: 1149, total numsteps: 834021, episode steps: 1000, reward: 1744.17
+Episode: 1150, total numsteps: 835021, episode steps: 1000, reward: 1940.09
+----------------------------------------
+Test Episode: 1150, reward: 2346.0
+----------------------------------------
+Episode: 1151, total numsteps: 836021, episode steps: 1000, reward: 2006.45
+Episode: 1152, total numsteps: 837021, episode steps: 1000, reward: 2060.73
+Episode: 1153, total numsteps: 838021, episode steps: 1000, reward: 1942.97
+Episode: 1154, total numsteps: 839021, episode steps: 1000, reward: 1926.76
+Episode: 1155, total numsteps: 840021, episode steps: 1000, reward: 1921.33
+Episode: 1156, total numsteps: 841021, episode steps: 1000, reward: 2054.01
+Episode: 1157, total numsteps: 842021, episode steps: 1000, reward: 2116.6
+Episode: 1158, total numsteps: 843021, episode steps: 1000, reward: 1978.23
+Episode: 1159, total numsteps: 844021, episode steps: 1000, reward: 2162.95
+Episode: 1160, total numsteps: 845021, episode steps: 1000, reward: 1997.9
+----------------------------------------
+Test Episode: 1160, reward: 2263.59
+----------------------------------------
+Episode: 1161, total numsteps: 846021, episode steps: 1000, reward: 1951.68
+Episode: 1162, total numsteps: 847021, episode steps: 1000, reward: 1966.41
+Episode: 1163, total numsteps: 848021, episode steps: 1000, reward: 2016.76
+Episode: 1164, total numsteps: 849021, episode steps: 1000, reward: 2168.42
+Episode: 1165, total numsteps: 850021, episode steps: 1000, reward: 1967.5
+Episode: 1166, total numsteps: 851021, episode steps: 1000, reward: 2158.55
+Episode: 1167, total numsteps: 852021, episode steps: 1000, reward: 2181.6
+Episode: 1168, total numsteps: 853021, episode steps: 1000, reward: 1998.89
+Episode: 1169, total numsteps: 854021, episode steps: 1000, reward: 2021.11
+Episode: 1170, total numsteps: 855021, episode steps: 1000, reward: 1951.74
+----------------------------------------
+Test Episode: 1170, reward: 2445.47
+----------------------------------------
+Episode: 1171, total numsteps: 856021, episode steps: 1000, reward: 1986.88
+Episode: 1172, total numsteps: 857021, episode steps: 1000, reward: 2010.8
+Episode: 1173, total numsteps: 858021, episode steps: 1000, reward: 2046.8
+Episode: 1174, total numsteps: 859021, episode steps: 1000, reward: 1987.37
+Episode: 1175, total numsteps: 860021, episode steps: 1000, reward: 1907.55
+Episode: 1176, total numsteps: 861021, episode steps: 1000, reward: 1941.18
+Episode: 1177, total numsteps: 862021, episode steps: 1000, reward: 1930.3
+Episode: 1178, total numsteps: 863021, episode steps: 1000, reward: 1100.68
+Episode: 1179, total numsteps: 864021, episode steps: 1000, reward: 2008.02
+Episode: 1180, total numsteps: 865021, episode steps: 1000, reward: 2095.96
+----------------------------------------
+Test Episode: 1180, reward: 2087.15
+----------------------------------------
+Episode: 1181, total numsteps: 866021, episode steps: 1000, reward: 2005.38
+Episode: 1182, total numsteps: 867021, episode steps: 1000, reward: 2053.32
+Episode: 1183, total numsteps: 868021, episode steps: 1000, reward: 1979.53
+Episode: 1184, total numsteps: 869021, episode steps: 1000, reward: 2155.42
+Episode: 1185, total numsteps: 870021, episode steps: 1000, reward: 1962.43
+Episode: 1186, total numsteps: 871021, episode steps: 1000, reward: 2146.38
+Episode: 1187, total numsteps: 872021, episode steps: 1000, reward: 1920.78
+Episode: 1188, total numsteps: 873021, episode steps: 1000, reward: 1958.42
+Episode: 1189, total numsteps: 874021, episode steps: 1000, reward: 2141.64
+Episode: 1190, total numsteps: 875021, episode steps: 1000, reward: 1854.19
+----------------------------------------
+Test Episode: 1190, reward: 2301.91
+----------------------------------------
+Episode: 1191, total numsteps: 876021, episode steps: 1000, reward: 2090.78
+Episode: 1192, total numsteps: 877021, episode steps: 1000, reward: 2171.49
+Episode: 1193, total numsteps: 878021, episode steps: 1000, reward: 2091.96
+Episode: 1194, total numsteps: 879021, episode steps: 1000, reward: 2005.1
+Episode: 1195, total numsteps: 880021, episode steps: 1000, reward: 2032.88
+Episode: 1196, total numsteps: 881021, episode steps: 1000, reward: 2166.75
+Episode: 1197, total numsteps: 882021, episode steps: 1000, reward: 2126.81
+Episode: 1198, total numsteps: 883021, episode steps: 1000, reward: 1963.44
+Episode: 1199, total numsteps: 884021, episode steps: 1000, reward: 2062.92
+Episode: 1200, total numsteps: 885021, episode steps: 1000, reward: 2148.72
+----------------------------------------
+Test Episode: 1200, reward: 2308.78
+----------------------------------------
+Episode: 1201, total numsteps: 886021, episode steps: 1000, reward: 1960.7
+Episode: 1202, total numsteps: 887021, episode steps: 1000, reward: 1226.5
+Episode: 1203, total numsteps: 888021, episode steps: 1000, reward: 2018.51
+Episode: 1204, total numsteps: 889021, episode steps: 1000, reward: 2111.54
+Episode: 1205, total numsteps: 890021, episode steps: 1000, reward: 2071.1
+Episode: 1206, total numsteps: 891021, episode steps: 1000, reward: 2133.6
+Episode: 1207, total numsteps: 892021, episode steps: 1000, reward: 1155.38
+Episode: 1208, total numsteps: 893021, episode steps: 1000, reward: 2001.96
+Episode: 1209, total numsteps: 894021, episode steps: 1000, reward: 1995.85
+Episode: 1210, total numsteps: 895021, episode steps: 1000, reward: 1958.5
+----------------------------------------
+Test Episode: 1210, reward: 2441.0
+----------------------------------------
+Episode: 1211, total numsteps: 896021, episode steps: 1000, reward: 2035.72
+Episode: 1212, total numsteps: 897021, episode steps: 1000, reward: 1884.19
+Episode: 1213, total numsteps: 898021, episode steps: 1000, reward: 2004.65
+Episode: 1214, total numsteps: 899021, episode steps: 1000, reward: 1998.92
+Episode: 1215, total numsteps: 900021, episode steps: 1000, reward: 2059.35
+Episode: 1216, total numsteps: 901021, episode steps: 1000, reward: 1984.34
+Episode: 1217, total numsteps: 902021, episode steps: 1000, reward: 2235.95
+Episode: 1218, total numsteps: 903021, episode steps: 1000, reward: 2141.98
+Episode: 1219, total numsteps: 904021, episode steps: 1000, reward: 2035.17
+Episode: 1220, total numsteps: 905021, episode steps: 1000, reward: 2162.39
+----------------------------------------
+Test Episode: 1220, reward: 2408.24
+----------------------------------------
+Episode: 1221, total numsteps: 906021, episode steps: 1000, reward: 1934.58
+Episode: 1222, total numsteps: 907021, episode steps: 1000, reward: 2173.76
+Episode: 1223, total numsteps: 908021, episode steps: 1000, reward: 2014.86
+Episode: 1224, total numsteps: 909021, episode steps: 1000, reward: 2099.77
+Episode: 1225, total numsteps: 910021, episode steps: 1000, reward: 2109.05
+Episode: 1226, total numsteps: 910848, episode steps: 827, reward: 1804.23
+Episode: 1227, total numsteps: 911848, episode steps: 1000, reward: 2102.48
+Episode: 1228, total numsteps: 911865, episode steps: 17, reward: 35.26
+Episode: 1229, total numsteps: 912865, episode steps: 1000, reward: 2148.86
+Episode: 1230, total numsteps: 913865, episode steps: 1000, reward: 2038.76
+----------------------------------------
+Test Episode: 1230, reward: 2287.51
+----------------------------------------
+Episode: 1231, total numsteps: 914865, episode steps: 1000, reward: 1978.63
+Episode: 1232, total numsteps: 914928, episode steps: 63, reward: 123.85
+Episode: 1233, total numsteps: 915928, episode steps: 1000, reward: 2025.8
+Episode: 1234, total numsteps: 916928, episode steps: 1000, reward: 2096.02
+Episode: 1235, total numsteps: 917928, episode steps: 1000, reward: 2124.32
+Episode: 1236, total numsteps: 918928, episode steps: 1000, reward: 2064.79
+Episode: 1237, total numsteps: 919928, episode steps: 1000, reward: 2190.72
+Episode: 1238, total numsteps: 920928, episode steps: 1000, reward: 1938.05
+Episode: 1239, total numsteps: 921928, episode steps: 1000, reward: 2091.83
+Episode: 1240, total numsteps: 922928, episode steps: 1000, reward: 1066.06
+----------------------------------------
+Test Episode: 1240, reward: 2483.63
+----------------------------------------
+Episode: 1241, total numsteps: 923928, episode steps: 1000, reward: 2197.42
+Episode: 1242, total numsteps: 924928, episode steps: 1000, reward: 2028.69
+Episode: 1243, total numsteps: 925928, episode steps: 1000, reward: 2065.99
+Episode: 1244, total numsteps: 926928, episode steps: 1000, reward: 2102.45
+Episode: 1245, total numsteps: 927928, episode steps: 1000, reward: 1966.75
+Episode: 1246, total numsteps: 928928, episode steps: 1000, reward: 2060.83
+Episode: 1247, total numsteps: 929928, episode steps: 1000, reward: 2005.38
+Episode: 1248, total numsteps: 930928, episode steps: 1000, reward: 2038.95
+Episode: 1249, total numsteps: 931928, episode steps: 1000, reward: 2141.14
+Episode: 1250, total numsteps: 932928, episode steps: 1000, reward: 2148.3
+----------------------------------------
+Test Episode: 1250, reward: 2312.24
+----------------------------------------
+Episode: 1251, total numsteps: 933928, episode steps: 1000, reward: 2174.13
+Episode: 1252, total numsteps: 934928, episode steps: 1000, reward: 2146.27
+Episode: 1253, total numsteps: 935928, episode steps: 1000, reward: 2048.07
+Episode: 1254, total numsteps: 936928, episode steps: 1000, reward: 1953.27
+Episode: 1255, total numsteps: 937928, episode steps: 1000, reward: 2184.51
+Episode: 1256, total numsteps: 938928, episode steps: 1000, reward: 2173.28
+Episode: 1257, total numsteps: 939928, episode steps: 1000, reward: 2005.81
+Episode: 1258, total numsteps: 940928, episode steps: 1000, reward: 1946.44
+Episode: 1259, total numsteps: 941928, episode steps: 1000, reward: 2131.8
+Episode: 1260, total numsteps: 942928, episode steps: 1000, reward: 2083.49
+----------------------------------------
+Test Episode: 1260, reward: 2408.89
+----------------------------------------
+Episode: 1261, total numsteps: 943928, episode steps: 1000, reward: 2079.09
+Episode: 1262, total numsteps: 944928, episode steps: 1000, reward: 2138.71
+Episode: 1263, total numsteps: 945928, episode steps: 1000, reward: 2241.95
+Episode: 1264, total numsteps: 946928, episode steps: 1000, reward: 2062.69
+Episode: 1265, total numsteps: 947928, episode steps: 1000, reward: 2083.07
+Episode: 1266, total numsteps: 948928, episode steps: 1000, reward: 2021.78
+Episode: 1267, total numsteps: 949276, episode steps: 348, reward: 724.71
+Episode: 1268, total numsteps: 950276, episode steps: 1000, reward: 2007.24
+Episode: 1269, total numsteps: 951276, episode steps: 1000, reward: 2106.58
+Episode: 1270, total numsteps: 952276, episode steps: 1000, reward: 2047.87
+----------------------------------------
+Test Episode: 1270, reward: 2495.34
+----------------------------------------
+Episode: 1271, total numsteps: 953276, episode steps: 1000, reward: 2171.33
+Episode: 1272, total numsteps: 954276, episode steps: 1000, reward: 2205.38
+Episode: 1273, total numsteps: 955276, episode steps: 1000, reward: 2198.88
+Episode: 1274, total numsteps: 956276, episode steps: 1000, reward: 2026.1
+Episode: 1275, total numsteps: 957276, episode steps: 1000, reward: 2202.84
+Episode: 1276, total numsteps: 958276, episode steps: 1000, reward: 2120.08
+Episode: 1277, total numsteps: 959276, episode steps: 1000, reward: 2122.11
+Episode: 1278, total numsteps: 960276, episode steps: 1000, reward: 2134.0
+Episode: 1279, total numsteps: 961276, episode steps: 1000, reward: 2006.73
+Episode: 1280, total numsteps: 962276, episode steps: 1000, reward: 2218.9
+----------------------------------------
+Test Episode: 1280, reward: 2343.25
+----------------------------------------
+Episode: 1281, total numsteps: 963276, episode steps: 1000, reward: 2287.07
+Episode: 1282, total numsteps: 964276, episode steps: 1000, reward: 2009.95
+Episode: 1283, total numsteps: 965276, episode steps: 1000, reward: 2046.68
+Episode: 1284, total numsteps: 966276, episode steps: 1000, reward: 2185.56
+Episode: 1285, total numsteps: 967276, episode steps: 1000, reward: 2121.53
+Episode: 1286, total numsteps: 968276, episode steps: 1000, reward: 2089.81
+Episode: 1287, total numsteps: 969276, episode steps: 1000, reward: 2133.53
+Episode: 1288, total numsteps: 970276, episode steps: 1000, reward: 2119.09
+Episode: 1289, total numsteps: 971276, episode steps: 1000, reward: 2048.6
+Episode: 1290, total numsteps: 972276, episode steps: 1000, reward: 2186.83
+----------------------------------------
+Test Episode: 1290, reward: 2449.11
+----------------------------------------
+Episode: 1291, total numsteps: 973276, episode steps: 1000, reward: 2131.01
+Episode: 1292, total numsteps: 974276, episode steps: 1000, reward: 2135.15
+Episode: 1293, total numsteps: 975276, episode steps: 1000, reward: 2111.8
+Episode: 1294, total numsteps: 976276, episode steps: 1000, reward: 2261.31
+Episode: 1295, total numsteps: 977276, episode steps: 1000, reward: 2220.99
+Episode: 1296, total numsteps: 978276, episode steps: 1000, reward: 2168.79
+Episode: 1297, total numsteps: 979276, episode steps: 1000, reward: 2239.58
+Episode: 1298, total numsteps: 979872, episode steps: 596, reward: 1264.31
+Episode: 1299, total numsteps: 980569, episode steps: 697, reward: 1532.43
+Episode: 1300, total numsteps: 981569, episode steps: 1000, reward: 2174.59
+----------------------------------------
+Test Episode: 1300, reward: 2413.67
+----------------------------------------
+Episode: 1301, total numsteps: 982569, episode steps: 1000, reward: 2170.99
+Episode: 1302, total numsteps: 983569, episode steps: 1000, reward: 2046.58
+Episode: 1303, total numsteps: 984569, episode steps: 1000, reward: 442.99
+Episode: 1304, total numsteps: 985569, episode steps: 1000, reward: 2040.65
+Episode: 1305, total numsteps: 986569, episode steps: 1000, reward: 2275.53
+Episode: 1306, total numsteps: 987569, episode steps: 1000, reward: 2289.99
+Episode: 1307, total numsteps: 988569, episode steps: 1000, reward: 2238.44
+Episode: 1308, total numsteps: 989569, episode steps: 1000, reward: 2240.59
+Episode: 1309, total numsteps: 990569, episode steps: 1000, reward: 2265.6
+Episode: 1310, total numsteps: 991569, episode steps: 1000, reward: 2267.11
+----------------------------------------
+Test Episode: 1310, reward: 2386.61
+----------------------------------------
+Episode: 1311, total numsteps: 992569, episode steps: 1000, reward: 2259.43
+Episode: 1312, total numsteps: 993569, episode steps: 1000, reward: 2203.6
+Episode: 1313, total numsteps: 994569, episode steps: 1000, reward: 309.72
+Episode: 1314, total numsteps: 995569, episode steps: 1000, reward: 2161.51
+Episode: 1315, total numsteps: 995589, episode steps: 20, reward: 23.34
+Episode: 1316, total numsteps: 996589, episode steps: 1000, reward: 2156.47
+Episode: 1317, total numsteps: 997589, episode steps: 1000, reward: 2103.41
+Episode: 1318, total numsteps: 998589, episode steps: 1000, reward: 2330.98
+Episode: 1319, total numsteps: 999589, episode steps: 1000, reward: 2184.35
+zubin_shopping@tf-1-us-west1-b-vm:~/robo/sac$ ls
+LICENSE   model.pyc               __pycache__       replay_memory.pyc  sac.pyc
+main.py   normalized_actions.py   README.md         runs               utils.py
+model.py  normalized_actions.pyc  replay_memory.py  sac.py             utils.pyc
+zubin_shopping@tf-1-us-west1-b-vm:~/robo/sac$ 
