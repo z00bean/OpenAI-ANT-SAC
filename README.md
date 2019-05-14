@@ -17,6 +17,8 @@ If you plan to visualize on a non GPU machine, make sure that you train with CPU
 Also make sure that torch and numpy versions match.
 multiworld package must be installed for rlkit to work.
 
+PPO nd MuJoCo Ant, Ant spaces: https://enginius.tistory.com/734
+
 
 Videos:
 https://studentuml-my.sharepoint.com/:f:/g/personal/zubin_bhuyan_student_uml_edu/EsoqUQTXZUxOtSi7zM91A4wBCK8pmvsF2DBYVLpKik647A?e=aoWh9Y
