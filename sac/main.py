@@ -1,5 +1,5 @@
 #Modified from: https://github.com/pranz24/pytorch-soft-actor-critic
-
+#Please try with Ant or Humanoid first.
 import argparse
 import datetime
 import gym
