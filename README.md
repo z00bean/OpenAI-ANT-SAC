@@ -12,7 +12,7 @@ To run:
   
 The result would be dumped in a tensorboard log file inside a folder named "runs".
 
-RLKit: This is preety much the original code from: https://github.com/vitchyr/rlkit (To install,please follow the instructions given here.)
+RLKit: This is preety much the original code from: https://github.com/vitchyr/rlkit (To install,please follow the instructions given.)
 Examples of how to run the algorithms is in the "examples" folder.
 
 The training data is dumped in files inside a directory named "Data".
