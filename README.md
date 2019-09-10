@@ -4,6 +4,8 @@ UML COMP.7030- Directed research
 ![Screenshot of OpenAI Ant learning to walk with SAC algorithm.](https://raw.githubusercontent.com/z00bean/OpenAI-ANT-SAC/master/Report-SAC-COMP.7030-zubin/img/imgAntVis.png)
 
 SAC code forked from: https://github.com/pranz24/pytorch-soft-actor-critic
+
+
 To run: 
 
 ```$python3 main.py --env-name Ant-v2 --cuda```
